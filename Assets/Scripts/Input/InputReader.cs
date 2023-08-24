@@ -35,7 +35,6 @@ public class InputReader : ScriptableObject, InputActions.IGameplayActions {
     }
 
     public void OnMove(InputAction.CallbackContext context) {
-        Debug.Log("moved");
         MoveEvent.Invoke(context.ReadValue<Vector2>());
     }
 }
