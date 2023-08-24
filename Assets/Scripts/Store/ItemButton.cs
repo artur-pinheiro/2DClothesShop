@@ -1,3 +1,4 @@
+using System;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -11,8 +12,16 @@ public class ItemButton : MonoBehaviour {
     [SerializeField] private ItemPurchaseChannelSO _itemPurchaseChannel;
 
     private Item _item;
-    private Button button;
+    private Button _button;
     private TransactionType _transactionType;
+
+    private void OnDisable() {
+        Destroy(gameObject);
+    }
+
+    private void DisableButton() {
+        _button.interactable = false;
+    }
 
     public void Setup(Item item, TransactionType transaction) {
         _item = item;
@@ -20,8 +29,14 @@ public class ItemButton : MonoBehaviour {
         _itemName.text = _item.itemName;
         _itemPrice.text = _item.price.ToString();
         _itemIcon.sprite = _item.icon;
-        button = GetComponent<Button>();
-        button.onClick.AddListener(() => _itemPurchaseChannel.RaisePurchase(_item, _transactionType));
-        button.onClick.AddListener(() => Destroy(gameObject,1f));
+        _button = GetComponent<Button>();
+        _button.onClick.AddListener(() => _itemPurchaseChannel.RaisePurchase(_item, _transactionType));
+        _button.onClick.AddListener(() => DisableButton());
+        _button.onClick.AddListener(() => Destroy(gameObject,0.5f));
+    }
+
+    public void Select() {
+        if( _button != null)
+            _button.Select();
     }
 }

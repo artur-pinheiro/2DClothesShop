@@ -10,7 +10,7 @@ public class PlayerInteraction : MonoBehaviour {
 
     private bool _isInteracting = false;
     private IInteractable _currentInteraction;
-    private string _currentInteractionTag;
+    private string _currentInteractionTag = "";
 
     #region UNITY_FUNCTIONS
     private void OnEnable() {
@@ -24,7 +24,7 @@ public class PlayerInteraction : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D collision) {
         foreach ( string tag in _interactionTags ) {
             if (collision.CompareTag(tag)) {
-                if (collision.gameObject.TryGetComponent(out IInteractable interactable)) {
+                if (collision.transform.parent.TryGetComponent(out IInteractable interactable)) {
                     _isInteracting = true;
                     _currentInteraction = interactable;
                     _currentInteractionTag = tag;
