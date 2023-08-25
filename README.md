@@ -1,5 +1,11 @@
 # 2D Clothes Shop - Artur Pinheiro
 
+- Use WASD or Left Joystick to Move
+- Interact with SPACE or Gamepad South Button
+- Open Inventory with I or Gamepad North Button
+- Cancel/Close with Esc or Gamepad East Button
+- The UI has a partial support for keyboard or gamepad and is better experienced with the Mouse
+
 This project uses an architecture based on ScriptableObjects as communication channels between components. This aims to eliminate the use of Singletons and limit the dependency between different components, keeping them as independent as possible and improving maintainability.
 
 The Player has a cross-platform input system and an animation system based on different children playing simultaneously to support different types of clothing.
