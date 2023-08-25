@@ -352,6 +352,7 @@ MonoBehaviour:
   _itemPrice: {fileID: 3893296883986542856}
   _itemIcon: {fileID: 7695470177233895702}
   _itemPurchaseChannel: {fileID: 11400000, guid: d6b6bf5b622abac499609f9c73c02503, type: 2}
+  _playAudioChannel: {fileID: 11400000, guid: 299ec537a177f2145a67b0249faaddfc, type: 2}
 --- !u!1 &7719877067518297576
 GameObject:
   m_ObjectHideFlags: 0

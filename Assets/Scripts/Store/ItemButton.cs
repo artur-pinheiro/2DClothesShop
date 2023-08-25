@@ -10,6 +10,7 @@ public class ItemButton : MonoBehaviour {
     [SerializeField] private Image _itemIcon;
     [Space]
     [SerializeField] private ItemPurchaseChannelSO _itemPurchaseChannel;
+    [SerializeField] private PlayAudioChannelSO _playAudioChannel;
 
     private Item _item;
     private Button _button;
@@ -31,6 +32,7 @@ public class ItemButton : MonoBehaviour {
         _itemIcon.sprite = _item.icon;
         _button = GetComponent<Button>();
         _button.onClick.AddListener(() => _itemPurchaseChannel.RaisePurchase(_item, _transactionType));
+        _button.onClick.AddListener(() => _playAudioChannel.RaisePlaySound("COIN"));
         _button.onClick.AddListener(() => DisableButton());
         _button.onClick.AddListener(() => Destroy(gameObject,0.5f));
     }

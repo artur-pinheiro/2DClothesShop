@@ -10,6 +10,7 @@ public class ItemIventoryButton : MonoBehaviour {
     [SerializeField] private Image _itemIcon;
     [Space]
     [SerializeField] private ItemEquippedChannelSO _itemEquippedChannel;
+    [SerializeField] private PlayAudioChannelSO _playAudioChannel;
 
     private Item _item;
     private Button _button;
@@ -37,6 +38,7 @@ public class ItemIventoryButton : MonoBehaviour {
         _itemIcon.sprite = _item.icon;
         _button = GetComponent<Button>();
         _button.onClick.AddListener(() => _itemEquippedChannel.RaiseItemEquipped(_item));
+        _button.onClick.AddListener(() => _playAudioChannel.RaisePlaySound("CLOTH"));
         _itemEquippedChannel.OnItemEquipped += CheckEquip;
     }
 

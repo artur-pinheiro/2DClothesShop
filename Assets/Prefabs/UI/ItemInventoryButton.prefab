@@ -141,6 +141,7 @@ MonoBehaviour:
   _equipText: {fileID: 6233424520502785517}
   _itemIcon: {fileID: 742420121435473395}
   _itemEquippedChannel: {fileID: 11400000, guid: 5e3583d9ea2e7ea459e3843d5a575f50, type: 2}
+  _playAudioChannel: {fileID: 11400000, guid: 299ec537a177f2145a67b0249faaddfc, type: 2}
 --- !u!1 &839029878484156685
 GameObject:
   m_ObjectHideFlags: 0
