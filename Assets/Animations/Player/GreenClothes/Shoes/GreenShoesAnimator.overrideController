@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GreenShoesAnimator
+  m_Controller: {fileID: 9100000, guid: f494a88f96fa3a846a0b6a5f63ef9198, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b87688cb8b4aa1f41a6b1eee4e03e66a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a5e866247b22da5468c6b1ec7edb4266, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 75c221d286c1f204c817c7b87b39eb38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ca908ce130b1b174eb24c796791b5df8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 65590329fce0e1244a676355e6f62b93, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cc2ad766133f99649af99f628a9ea63f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5c669fc87b2bb8d4381c963401f4cc1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c738c7990a8db3843b7901acddf011b5, type: 2}
