@@ -46,15 +46,6 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                     ""initialStateCheck"": false
                 },
                 {
-                    ""name"": ""Cancel"",
-                    ""type"": ""Button"",
-                    ""id"": ""2bda4759-4f88-4a55-81c1-374a0c105572"",
-                    ""expectedControlType"": ""Button"",
-                    ""processors"": """",
-                    ""interactions"": """",
-                    ""initialStateCheck"": false
-                },
-                {
                     ""name"": ""Inventory"",
                     ""type"": ""Button"",
                     ""id"": ""46b570ea-d1cf-48ac-8f15-4253421e3545"",
@@ -155,28 +146,6 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""f6db3a24-0033-42c5-bbe5-18bd622aed8a"",
-                    ""path"": ""<Keyboard>/escape"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Cancel"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""18d2269d-3079-4186-ae70-337e1b682b0c"",
-                    ""path"": ""<Gamepad>/buttonEast"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Cancel"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
                     ""id"": ""aa56f6be-c8a0-488d-a942-e42d1395a0e0"",
                     ""path"": ""<Keyboard>/i"",
                     ""interactions"": """",
@@ -198,6 +167,45 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                     ""isPartOfComposite"": false
                 }
             ]
+        },
+        {
+            ""name"": ""GameplayUI"",
+            ""id"": ""1972fc4f-b141-4ddd-834e-07a4ad7e7cbf"",
+            ""actions"": [
+                {
+                    ""name"": ""Cancel"",
+                    ""type"": ""Button"",
+                    ""id"": ""8e64489c-435a-4b0c-9855-0a545b9965cc"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                }
+            ],
+            ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""ab6f37a2-5c7d-4c88-819d-84dd5e143df0"",
+                    ""path"": ""<Keyboard>/escape"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Cancel"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""a50e9a57-3d18-4f36-8fe7-309c5064c198"",
+                    ""path"": ""<Gamepad>/buttonEast"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Cancel"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                }
+            ]
         }
     ],
     ""controlSchemes"": [
@@ -212,8 +220,10 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
         m_Gameplay = asset.FindActionMap("Gameplay", throwIfNotFound: true);
         m_Gameplay_Move = m_Gameplay.FindAction("Move", throwIfNotFound: true);
         m_Gameplay_Interact = m_Gameplay.FindAction("Interact", throwIfNotFound: true);
-        m_Gameplay_Cancel = m_Gameplay.FindAction("Cancel", throwIfNotFound: true);
         m_Gameplay_Inventory = m_Gameplay.FindAction("Inventory", throwIfNotFound: true);
+        // GameplayUI
+        m_GameplayUI = asset.FindActionMap("GameplayUI", throwIfNotFound: true);
+        m_GameplayUI_Cancel = m_GameplayUI.FindAction("Cancel", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -275,7 +285,6 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
     private IGameplayActions m_GameplayActionsCallbackInterface;
     private readonly InputAction m_Gameplay_Move;
     private readonly InputAction m_Gameplay_Interact;
-    private readonly InputAction m_Gameplay_Cancel;
     private readonly InputAction m_Gameplay_Inventory;
     public struct GameplayActions
     {
@@ -283,7 +292,6 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
         public GameplayActions(@InputActions wrapper) { m_Wrapper = wrapper; }
         public InputAction @Move => m_Wrapper.m_Gameplay_Move;
         public InputAction @Interact => m_Wrapper.m_Gameplay_Interact;
-        public InputAction @Cancel => m_Wrapper.m_Gameplay_Cancel;
         public InputAction @Inventory => m_Wrapper.m_Gameplay_Inventory;
         public InputActionMap Get() { return m_Wrapper.m_Gameplay; }
         public void Enable() { Get().Enable(); }
@@ -300,9 +308,6 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 @Interact.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInteract;
                 @Interact.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInteract;
                 @Interact.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInteract;
-                @Cancel.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnCancel;
-                @Cancel.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnCancel;
-                @Cancel.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnCancel;
                 @Inventory.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInventory;
                 @Inventory.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInventory;
                 @Inventory.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInventory;
@@ -316,9 +321,6 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 @Interact.started += instance.OnInteract;
                 @Interact.performed += instance.OnInteract;
                 @Interact.canceled += instance.OnInteract;
-                @Cancel.started += instance.OnCancel;
-                @Cancel.performed += instance.OnCancel;
-                @Cancel.canceled += instance.OnCancel;
                 @Inventory.started += instance.OnInventory;
                 @Inventory.performed += instance.OnInventory;
                 @Inventory.canceled += instance.OnInventory;
@@ -326,6 +328,39 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
         }
     }
     public GameplayActions @Gameplay => new GameplayActions(this);
+
+    // GameplayUI
+    private readonly InputActionMap m_GameplayUI;
+    private IGameplayUIActions m_GameplayUIActionsCallbackInterface;
+    private readonly InputAction m_GameplayUI_Cancel;
+    public struct GameplayUIActions
+    {
+        private @InputActions m_Wrapper;
+        public GameplayUIActions(@InputActions wrapper) { m_Wrapper = wrapper; }
+        public InputAction @Cancel => m_Wrapper.m_GameplayUI_Cancel;
+        public InputActionMap Get() { return m_Wrapper.m_GameplayUI; }
+        public void Enable() { Get().Enable(); }
+        public void Disable() { Get().Disable(); }
+        public bool enabled => Get().enabled;
+        public static implicit operator InputActionMap(GameplayUIActions set) { return set.Get(); }
+        public void SetCallbacks(IGameplayUIActions instance)
+        {
+            if (m_Wrapper.m_GameplayUIActionsCallbackInterface != null)
+            {
+                @Cancel.started -= m_Wrapper.m_GameplayUIActionsCallbackInterface.OnCancel;
+                @Cancel.performed -= m_Wrapper.m_GameplayUIActionsCallbackInterface.OnCancel;
+                @Cancel.canceled -= m_Wrapper.m_GameplayUIActionsCallbackInterface.OnCancel;
+            }
+            m_Wrapper.m_GameplayUIActionsCallbackInterface = instance;
+            if (instance != null)
+            {
+                @Cancel.started += instance.OnCancel;
+                @Cancel.performed += instance.OnCancel;
+                @Cancel.canceled += instance.OnCancel;
+            }
+        }
+    }
+    public GameplayUIActions @GameplayUI => new GameplayUIActions(this);
     private int m_GameplaySchemeIndex = -1;
     public InputControlScheme GameplayScheme
     {
@@ -339,7 +374,10 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
     {
         void OnMove(InputAction.CallbackContext context);
         void OnInteract(InputAction.CallbackContext context);
-        void OnCancel(InputAction.CallbackContext context);
         void OnInventory(InputAction.CallbackContext context);
+    }
+    public interface IGameplayUIActions
+    {
+        void OnCancel(InputAction.CallbackContext context);
     }
 }

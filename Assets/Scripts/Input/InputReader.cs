@@ -3,7 +3,7 @@ using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
 [CreateAssetMenu(fileName = "InputReader", menuName = "ScriptableObjects/Input/InputReader")]
-public class InputReader : ScriptableObject, InputActions.IGameplayActions {
+public class InputReader : ScriptableObject, InputActions.IGameplayActions, InputActions.IGameplayUIActions {
 
     public event UnityAction InteractEvent = delegate { };
     public event UnityAction<Vector2> MoveEvent = delegate { };
@@ -16,6 +16,7 @@ public class InputReader : ScriptableObject, InputActions.IGameplayActions {
         if ( _gameInput == null ) {
             _gameInput = new InputActions();
             _gameInput.Gameplay.SetCallbacks(this);
+            _gameInput.GameplayUI.SetCallbacks(this);
         }
     }
 
@@ -25,10 +26,12 @@ public class InputReader : ScriptableObject, InputActions.IGameplayActions {
 
     public void EnableInput() {
         _gameInput.Gameplay.Enable();
+        _gameInput.GameplayUI.Disable();
     }
 
     public void DisableInput() {
         _gameInput.Gameplay.Disable();
+        _gameInput.GameplayUI.Enable();
     }
 
     public void OnInteract(InputAction.CallbackContext context) {
