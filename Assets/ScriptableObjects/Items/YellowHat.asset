@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Yellow Hat
   price: 29
   icon: {fileID: -882433773, guid: 7b7320aca0d0c5346857242b54187442, type: 3}
+  animator: {fileID: 22100000, guid: b5e90fc9742f9f945bd8ac4f6f250083, type: 2}
+  isEquipped: 0

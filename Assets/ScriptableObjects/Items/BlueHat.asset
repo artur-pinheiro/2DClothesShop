@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Blue Hat
   price: 29
   icon: {fileID: -413660339, guid: c596ff1cf062ab7469863d9f99718e85, type: 3}
+  animator: {fileID: 22100000, guid: 3ab71dfd66fadcd49a41119591abd2dd, type: 2}
+  isEquipped: 0

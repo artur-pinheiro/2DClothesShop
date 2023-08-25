@@ -13,4 +13,6 @@ public class Item : ScriptableObject {
     public string itemName;
     public float price;
     public Sprite icon;
+    public AnimatorOverrideController animator;
+    public bool isEquipped;
 }

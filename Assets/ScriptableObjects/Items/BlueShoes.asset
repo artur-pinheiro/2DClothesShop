@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Blue Shoes
   price: 40
   icon: {fileID: -184851866, guid: e97278e7b0c758743a633939cda15349, type: 3}
+  animator: {fileID: 22100000, guid: 17687569812a2da49bff1aa3fc7ee163, type: 2}
+  isEquipped: 0

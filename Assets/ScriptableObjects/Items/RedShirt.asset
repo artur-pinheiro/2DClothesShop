@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Red Shirt
   price: 35
   icon: {fileID: -1879151688, guid: bb7ebc8c9e8cca647b74818aa16420ff, type: 3}
+  animator: {fileID: 22100000, guid: 6b8affad57bc38c4584562ffadcb6d18, type: 2}
+  isEquipped: 0

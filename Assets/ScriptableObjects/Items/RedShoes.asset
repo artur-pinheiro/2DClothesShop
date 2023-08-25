@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Red Shoes
   price: 40
   icon: {fileID: 237677870, guid: 23739438ef20c034ba74f142709b15fb, type: 3}
+  animator: {fileID: 22100000, guid: 06d2101174c21e946870ef9a4a76632a, type: 2}
+  isEquipped: 0

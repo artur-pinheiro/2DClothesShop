@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Pink Hat
   price: 29
   icon: {fileID: -1050723031, guid: 678dfbc44047e9849ac3d4dadb02cc6a, type: 3}
+  animator: {fileID: 22100000, guid: d74ede49ae3ae744f9386ea6e8d93524, type: 2}
+  isEquipped: 0

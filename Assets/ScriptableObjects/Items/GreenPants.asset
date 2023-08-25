@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Green Pants
   price: 73
   icon: {fileID: 1221157408, guid: 70ae7219afb3d00498307ff6dd21b8a0, type: 3}
+  animator: {fileID: 22100000, guid: 48b49695554ca87408dea998c401465a, type: 2}
+  isEquipped: 0

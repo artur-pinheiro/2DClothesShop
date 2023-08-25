@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Green Shoes
   price: 40
   icon: {fileID: 389013271, guid: d15bad39478bfdb4ba79fd040c8ea979, type: 3}
+  animator: {fileID: 22100000, guid: c8cdac2fab5c3c34dacb718363e3c6c6, type: 2}
+  isEquipped: 0

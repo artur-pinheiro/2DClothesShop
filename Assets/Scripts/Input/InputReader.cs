@@ -7,6 +7,8 @@ public class InputReader : ScriptableObject, InputActions.IGameplayActions {
 
     public event UnityAction InteractEvent = delegate { };
     public event UnityAction<Vector2> MoveEvent = delegate { };
+    public event UnityAction CancelEvent = delegate { };
+    public event UnityAction InventoryEvent = delegate { };
 
     private InputActions _gameInput;
 
@@ -36,5 +38,15 @@ public class InputReader : ScriptableObject, InputActions.IGameplayActions {
 
     public void OnMove(InputAction.CallbackContext context) {
         MoveEvent.Invoke(context.ReadValue<Vector2>());
+    }
+
+    public void OnCancel(InputAction.CallbackContext context) {
+        if ( context.phase == InputActionPhase.Performed )
+            CancelEvent.Invoke();
+    }
+
+    public void OnInventory(InputAction.CallbackContext context) {
+        if ( context.phase == InputActionPhase.Performed )
+            InventoryEvent.Invoke();
     }
 }

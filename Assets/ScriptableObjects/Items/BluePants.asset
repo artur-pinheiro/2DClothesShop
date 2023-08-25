@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Blue Pants
   price: 73
   icon: {fileID: 855478535, guid: 7c280eadc82fd604bb0986536410b75d, type: 3}
+  animator: {fileID: 22100000, guid: 36e782300b925bc40ba8e0d3504ed975, type: 2}
+  isEquipped: 0

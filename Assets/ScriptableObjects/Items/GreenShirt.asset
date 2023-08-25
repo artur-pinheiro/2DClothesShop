@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Green Shirt
   price: 35
   icon: {fileID: 1531670102, guid: 41345ef1bf83cba408e1a19b06bfe14d, type: 3}
+  animator: {fileID: 22100000, guid: 46fad96a1beb7f04487f89525d474393, type: 2}
+  isEquipped: 0

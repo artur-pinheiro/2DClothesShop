@@ -16,3 +16,5 @@ MonoBehaviour:
   itemName: Red Pants
   price: 73
   icon: {fileID: 1046254538, guid: eb6b8dbbb76efdd4b93ea48f6dda34de, type: 3}
+  animator: {fileID: 22100000, guid: 156ba4c525339fd4d88c7d08ba4b0834, type: 2}
+  isEquipped: 0
