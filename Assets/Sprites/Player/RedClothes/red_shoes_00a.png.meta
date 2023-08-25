@@ -71,7 +71,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -4255,10 +4255,10 @@ TextureImporter:
       red_shoes_00a_34: -1506807241
       red_shoes_00a_59: 1203556953
       red_shoes_00a_180: -376334664
-      red_shoes_00a_18: 48892352
-      red_shoes_00a_67: -705730830
-      red_shoes_00a_193: -1159153957
       red_shoes_00a_32: -232185824
+      red_shoes_00a_18: 48892352
+      red_shoes_00a_193: -1159153957
+      red_shoes_00a_67: -705730830
       red_shoes_00a_150: -827724729
       red_shoes_00a_13: 266058623
       red_shoes_00a_129: -1383529910

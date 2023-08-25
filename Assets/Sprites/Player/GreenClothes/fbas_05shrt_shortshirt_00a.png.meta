@@ -71,7 +71,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -4339,17 +4339,17 @@ TextureImporter:
       fbas_05shrt_shortshirt_00a_30: 949716838
       fbas_05shrt_shortshirt_00a_118: -2052961463
       fbas_05shrt_shortshirt_00a_144: -217901335
-      fbas_05shrt_shortshirt_00a_19: -2120563056
-      fbas_05shrt_shortshirt_00a_9: 975209359
-      fbas_05shrt_shortshirt_00a_139: 1231309322
-      fbas_05shrt_shortshirt_00a_82: 2113534310
-      fbas_05shrt_shortshirt_00a_191: 661533340
-      fbas_05shrt_shortshirt_00a_126: 1447768326
-      fbas_05shrt_shortshirt_00a_71: 114231516
-      fbas_05shrt_shortshirt_00a_4: 1708458795
-      fbas_05shrt_shortshirt_00a_65: 2091701161
-      fbas_05shrt_shortshirt_00a_119: 421153513
       fbas_05shrt_shortshirt_00a_135: -158509781
+      fbas_05shrt_shortshirt_00a_9: 975209359
+      fbas_05shrt_shortshirt_00a_19: -2120563056
+      fbas_05shrt_shortshirt_00a_139: 1231309322
+      fbas_05shrt_shortshirt_00a_191: 661533340
+      fbas_05shrt_shortshirt_00a_65: 2091701161
+      fbas_05shrt_shortshirt_00a_71: 114231516
+      fbas_05shrt_shortshirt_00a_126: 1447768326
+      fbas_05shrt_shortshirt_00a_82: 2113534310
+      fbas_05shrt_shortshirt_00a_119: 421153513
+      fbas_05shrt_shortshirt_00a_4: 1708458795
       fbas_05shrt_shortshirt_00a_69: -1114660739
       fbas_05shrt_shortshirt_00a_84: 2109172930
       fbas_05shrt_shortshirt_00a_98: -783263296

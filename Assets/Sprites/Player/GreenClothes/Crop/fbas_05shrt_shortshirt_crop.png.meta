@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a27c6b98d554c0b49a8bd4a593b52af6
+guid: 41345ef1bf83cba408e1a19b06bfe14d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: red_shortshirt_00a_0
+      name: fbas_05shrt_shortshirt_crop_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 960
-        width: 64
-        height: 64
+        x: 25
+        y: 990
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a4956a1187776542aff8b11153da53e
-      internalID: -1432450729
+      spriteID: fe128497be2ae254baddc3111fb3012f
+      internalID: 1531670102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_1
+      name: fbas_05shrt_shortshirt_crop_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 960
-        width: 64
-        height: 64
+        x: 88
+        y: 988
+        width: 68
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11bc0b948256c5b439493bd15d304cf6
-      internalID: -29074257
+      spriteID: 7d1add90cf697c849a636e02f5ae5f22
+      internalID: -299158587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_2
+      name: fbas_05shrt_shortshirt_crop_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 960
-        width: 64
-        height: 64
+        x: 217
+        y: 990
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b58da5f04636cb14c9838b39be1b190a
-      internalID: -538850388
+      spriteID: 18892f735a725a44d96c3a09431a5a9c
+      internalID: 620242085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_3
+      name: fbas_05shrt_shortshirt_crop_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 960
-        width: 64
-        height: 64
+        x: 344
+        y: 997
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ab36fef0df37b049aee90fa9eafdf45
-      internalID: 1088901030
+      spriteID: 6d98fccc220ea57428c943456a3149a5
+      internalID: 483522896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_4
+      name: fbas_05shrt_shortshirt_crop_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 960
-        width: 64
-        height: 64
+        x: 728
+        y: 991
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2b1602185030ec4780d6662d95e9e6b
-      internalID: 1241888608
+      spriteID: 3ed91ad368039964d83630c801f42b3d
+      internalID: 354640784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_5
+      name: fbas_05shrt_shortshirt_crop_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 960
-        width: 64
-        height: 64
+        x: 793
+        y: 989
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21b5ceead988b9e4f8d5eb585fd3ed9a
-      internalID: -353852223
+      spriteID: 1027c114c3ed7494d972ef9081da48a0
+      internalID: 32547448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_6
+      name: fbas_05shrt_shortshirt_crop_6
       rect:
         serializedVersion: 2
-        x: 384
-        y: 960
-        width: 64
-        height: 64
+        x: 857
+        y: 990
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 797c70f9b8ff05248b8fdb7a0daf8ef1
-      internalID: 2009427816
+      spriteID: 59d58110cdc85c340afb5ef11f55d226
+      internalID: 199994052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_7
+      name: fbas_05shrt_shortshirt_crop_7
       rect:
         serializedVersion: 2
-        x: 448
-        y: 960
-        width: 64
-        height: 64
+        x: 924
+        y: 990
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69ed52500079cac42bdfb803f0017021
-      internalID: 1920762411
+      spriteID: 906d21906a0b91c4bb65f3b0a93c0ef3
+      internalID: 877986822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_8
+      name: fbas_05shrt_shortshirt_crop_8
       rect:
         serializedVersion: 2
-        x: 512
-        y: 960
-        width: 64
-        height: 64
+        x: 280
+        y: 989
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d45f393206d3414fbd0702f8a7c4b71
-      internalID: -1092977927
+      spriteID: a340db8cb2b89cb418adb1910e90b0f9
+      internalID: 1716220884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_9
+      name: fbas_05shrt_shortshirt_crop_9
       rect:
         serializedVersion: 2
-        x: 576
-        y: 960
-        width: 64
-        height: 64
+        x: 409
+        y: 988
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d385abb361ad1364eb89e0ca2997d6c5
-      internalID: -1170942133
+      spriteID: c99a60e2e0ea30044a786fe5bc908155
+      internalID: -1431253875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_10
+      name: fbas_05shrt_shortshirt_crop_10
       rect:
         serializedVersion: 2
-        x: 640
-        y: 960
-        width: 64
-        height: 64
+        x: 472
+        y: 984
+        width: 16
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4016c1d6355566449a0f56285f29e34c
-      internalID: 400385567
+      spriteID: 8da92809c9b91424db14f7c22282f44e
+      internalID: -1798992585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_11
+      name: fbas_05shrt_shortshirt_crop_11
       rect:
         serializedVersion: 2
-        x: 704
-        y: 960
-        width: 64
-        height: 64
+        x: 536
+        y: 986
+        width: 16
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87afba20c18997e47be49102318141e5
-      internalID: -770865356
+      spriteID: 62772e5b640cf0840b9e0523487cedf3
+      internalID: 903828828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_12
+      name: fbas_05shrt_shortshirt_crop_12
       rect:
         serializedVersion: 2
-        x: 768
-        y: 960
-        width: 64
-        height: 64
+        x: 600
+        y: 983
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c4d6fcf2a827814a9d9802149e00c1a
-      internalID: -1967072396
+      spriteID: 554732b6d5cef62478d4c9bb57b53800
+      internalID: 2071530026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_13
+      name: fbas_05shrt_shortshirt_crop_13
       rect:
         serializedVersion: 2
-        x: 832
-        y: 960
-        width: 64
-        height: 64
+        x: 664
+        y: 988
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,20 +391,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2f861e341dce84449970011d37c14d0
-      internalID: 1416352209
+      spriteID: 12e6842554aeea04582ef1ba9c861a10
+      internalID: -1230448864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_14
+      name: fbas_05shrt_shortshirt_crop_14
       rect:
         serializedVersion: 2
-        x: 896
-        y: 960
-        width: 64
-        height: 64
+        x: 985
+        y: 984
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,20 +412,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 299dd8332e709754faa782ce21157853
-      internalID: 759023369
+      spriteID: 9dcf75698b407194e9bb551ae0532ed4
+      internalID: -148642091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_15
+      name: fbas_05shrt_shortshirt_crop_15
       rect:
         serializedVersion: 2
-        x: 960
-        y: 960
-        width: 64
-        height: 64
+        x: 154
+        y: 938
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,20 +433,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfb9cd727488cdb41a94d86f4fa82864
-      internalID: -2054422897
+      spriteID: 5bab413160f957a459584ddbdfcd33a2
+      internalID: 1632827963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_16
+      name: fbas_05shrt_shortshirt_crop_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896
-        width: 64
-        height: 64
+        x: 345
+        y: 938
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,20 +454,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 377b8365af344644f93feebe371a1b5c
-      internalID: -624019027
+      spriteID: a44129a055d7f0241a23697c101f26a8
+      internalID: 772953091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_17
+      name: fbas_05shrt_shortshirt_crop_17
       rect:
         serializedVersion: 2
-        x: 64
-        y: 896
-        width: 64
-        height: 64
+        x: 25
+        y: 926
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,20 +475,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59d49f5574936814e8c6d5d77b4b7a37
-      internalID: 1552921639
+      spriteID: cca552e118f75d04c80b5e27ad9fb225
+      internalID: 1013194987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_18
+      name: fbas_05shrt_shortshirt_crop_18
       rect:
         serializedVersion: 2
-        x: 128
-        y: 896
-        width: 64
-        height: 64
+        x: 91
+        y: 928
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,20 +496,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b82256ba33578f64ca6aadaccd70e5e4
-      internalID: 1498057084
+      spriteID: 6ca7f543378ef1e40a9cfa1a22265719
+      internalID: -2091458425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_19
+      name: fbas_05shrt_shortshirt_crop_19
       rect:
         serializedVersion: 2
-        x: 192
-        y: 896
-        width: 64
-        height: 64
+        x: 217
+        y: 926
+        width: 14
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,20 +517,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34a974040f9434b45844c28dbeafd551
-      internalID: -331511619
+      spriteID: a35159bfc279fa645b68bd2f3d8a2843
+      internalID: -1400509692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_20
+      name: fbas_05shrt_shortshirt_crop_20
       rect:
         serializedVersion: 2
-        x: 256
-        y: 896
-        width: 64
-        height: 64
+        x: 281
+        y: 927
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +538,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b841aa5e68d2d5f48b6fb8983e5c3a89
-      internalID: 1117754762
+      spriteID: 66a56fe862a19d44b90a9f7b295c0ac9
+      internalID: 340421445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_21
+      name: fbas_05shrt_shortshirt_crop_21
       rect:
         serializedVersion: 2
-        x: 320
-        y: 896
-        width: 64
-        height: 64
+        x: 409
+        y: 927
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,20 +559,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3eae479da37906c4988caca7947b2094
-      internalID: -1941085031
+      spriteID: 52bfb37308ba720469023c6f63ace861
+      internalID: 2105319305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_22
+      name: fbas_05shrt_shortshirt_crop_22
       rect:
         serializedVersion: 2
-        x: 384
-        y: 896
-        width: 64
-        height: 64
+        x: 473
+        y: 926
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,20 +580,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1afef50b7f0d6147a30624ddb189356
-      internalID: 1108409892
+      spriteID: cb05bc11457a8ec48b79ec31261c34f1
+      internalID: 361538850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_23
+      name: fbas_05shrt_shortshirt_crop_23
       rect:
         serializedVersion: 2
-        x: 448
-        y: 896
-        width: 64
-        height: 64
+        x: 538
+        y: 925
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,20 +601,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b4741fed83ef3e40974466fd4f64727
-      internalID: 594885888
+      spriteID: 8870b85dd26b7f54a82ef755f628b689
+      internalID: 682482016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_24
+      name: fbas_05shrt_shortshirt_crop_24
       rect:
         serializedVersion: 2
-        x: 512
-        y: 896
-        width: 64
-        height: 64
+        x: 602
+        y: 927
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,20 +622,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ae37e6d0f5017343a055b752c88c4c1
-      internalID: -1370481361
+      spriteID: d2b6e366c2f303c4dab7d39687663ccc
+      internalID: -1713985436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_25
+      name: fbas_05shrt_shortshirt_crop_25
       rect:
         serializedVersion: 2
-        x: 576
-        y: 896
-        width: 64
-        height: 64
+        x: 666
+        y: 927
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,20 +643,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26e3b94fff7276a489544a5ace778ac5
-      internalID: 1273233897
+      spriteID: 167cc35382124fa47a049f0e3bdbb084
+      internalID: -1126335011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_26
+      name: fbas_05shrt_shortshirt_crop_26
       rect:
         serializedVersion: 2
-        x: 640
-        y: 896
-        width: 64
-        height: 64
+        x: 729
+        y: 923
+        width: 14
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,20 +664,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9620e51069b38404ab528345f4b2eb39
-      internalID: -341122954
+      spriteID: f63a02135dd75f44e8d6b98361acfaeb
+      internalID: 103346214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_27
+      name: fbas_05shrt_shortshirt_crop_27
       rect:
         serializedVersion: 2
-        x: 704
-        y: 896
-        width: 64
-        height: 64
+        x: 794
+        y: 927
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,20 +685,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0061220c6967c3a4da730c4bb3442882
-      internalID: 1114074668
+      spriteID: 583a477c2755cf44388860a4cb221ebc
+      internalID: 248668728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_28
+      name: fbas_05shrt_shortshirt_crop_28
       rect:
         serializedVersion: 2
-        x: 768
-        y: 896
-        width: 64
-        height: 64
+        x: 859
+        y: 927
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,20 +706,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7c24b3dcc38f6a489dfd3d002cde818
-      internalID: 87421906
+      spriteID: e3fc02e73909a1b4680df5a3bfdce9d0
+      internalID: -872168016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_29
+      name: fbas_05shrt_shortshirt_crop_29
       rect:
         serializedVersion: 2
-        x: 832
-        y: 896
-        width: 64
-        height: 64
+        x: 923
+        y: 927
+        width: 13
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,20 +727,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2bef1bdb58854340b4d617a2fc56226
-      internalID: 1782978784
+      spriteID: a3fcdbcb0a131b3469d832ef8c1da53e
+      internalID: -52611772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_30
+      name: fbas_05shrt_shortshirt_crop_30
       rect:
         serializedVersion: 2
-        x: 896
-        y: 896
-        width: 64
-        height: 64
+        x: 985
+        y: 920
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,20 +748,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 697a0b44e15bedd4ab07f6810f19a33f
-      internalID: -1021834238
+      spriteID: d260c699f0507854b95040fd5a50e2d7
+      internalID: 1728753332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_31
+      name: fbas_05shrt_shortshirt_crop_31
       rect:
         serializedVersion: 2
-        x: 960
-        y: 896
-        width: 64
-        height: 64
+        x: 28
+        y: 862
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,20 +769,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 118e9af4534bd8344988657c075260f2
-      internalID: 884720988
+      spriteID: 722b96ad0da68b94bbe544019e8095e3
+      internalID: 952224877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_32
+      name: fbas_05shrt_shortshirt_crop_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 832
-        width: 64
-        height: 64
+        x: 159
+        y: 868
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,20 +790,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 224742cb3cad141438468093c2e29d3d
-      internalID: 2140068290
+      spriteID: aed9203a3fbc4484ebeeccff9a05d09d
+      internalID: 127200430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_33
+      name: fbas_05shrt_shortshirt_crop_33
       rect:
         serializedVersion: 2
-        x: 64
-        y: 832
-        width: 64
-        height: 64
+        x: 221
+        y: 862
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -811,20 +811,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f320391296da66d4eb92fd26fabd98cc
-      internalID: -1772350445
+      spriteID: f23f9d7bb1a546342b30999b25aa03b7
+      internalID: 972321136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_34
+      name: fbas_05shrt_shortshirt_crop_34
       rect:
         serializedVersion: 2
-        x: 128
-        y: 832
-        width: 64
-        height: 64
+        x: 353
+        y: 868
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,20 +832,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbbbcf37a8fe96a4bb8051b64538fd76
-      internalID: 836021925
+      spriteID: efb090feabd3bc649b485a3de8dbce18
+      internalID: 1669149215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_35
+      name: fbas_05shrt_shortshirt_crop_35
       rect:
         serializedVersion: 2
-        x: 192
-        y: 832
-        width: 64
-        height: 64
+        x: 413
+        y: 862
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,20 +853,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bf7700926bd9a3499b9206613964feb
-      internalID: -876726733
+      spriteID: 1b26946f6aac6524b8ede7f4393f28d9
+      internalID: -2012175977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_36
+      name: fbas_05shrt_shortshirt_crop_36
       rect:
         serializedVersion: 2
-        x: 256
-        y: 832
-        width: 64
-        height: 64
+        x: 542
+        y: 862
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,20 +874,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cda84a906a4cead4fbb4cc1e62c904cd
-      internalID: -412782785
+      spriteID: 6392932999271284a866f58a5e3009fc
+      internalID: -1638547880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_37
+      name: fbas_05shrt_shortshirt_crop_37
       rect:
         serializedVersion: 2
-        x: 320
-        y: 832
-        width: 64
-        height: 64
+        x: 604
+        y: 862
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,20 +895,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62151c1480ece7e4190ce466156c0be7
-      internalID: 1697870050
+      spriteID: 3ef72606fe755c442b3f9c6bbfaa8116
+      internalID: -2110279735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_38
+      name: fbas_05shrt_shortshirt_crop_38
       rect:
         serializedVersion: 2
-        x: 384
-        y: 832
-        width: 64
-        height: 64
+        x: 669
+        y: 862
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -916,20 +916,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5713011d3eaaf3a48a6f8745d9cdf362
-      internalID: 641725511
+      spriteID: 5260464cf6deac041ba8e6484ca33890
+      internalID: -512337633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_39
+      name: fbas_05shrt_shortshirt_crop_39
       rect:
         serializedVersion: 2
-        x: 448
-        y: 832
-        width: 64
-        height: 64
+        x: 730
+        y: 862
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,20 +937,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17718d969b9ee374db5cb81d7b6352c1
-      internalID: -1962586814
+      spriteID: a4d50778b92776f49accf0f7497266a2
+      internalID: 2045793832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_40
+      name: fbas_05shrt_shortshirt_crop_40
       rect:
         serializedVersion: 2
-        x: 512
-        y: 832
-        width: 64
-        height: 64
+        x: 801
+        y: 862
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -958,20 +958,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7af6c7efbec29a6429f76e4795770973
-      internalID: 1054426883
+      spriteID: f333beb702216f3438f8ad348912bf49
+      internalID: -1096821636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_41
+      name: fbas_05shrt_shortshirt_crop_41
       rect:
         serializedVersion: 2
-        x: 576
-        y: 832
-        width: 64
-        height: 64
+        x: 861
+        y: 862
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -979,20 +979,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1704612b35d19434ea9c45741efa3ad5
-      internalID: 1770930233
+      spriteID: b1266776e9ab09b4588099c6e2d57466
+      internalID: -982302330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_42
+      name: fbas_05shrt_shortshirt_crop_42
       rect:
         serializedVersion: 2
-        x: 640
-        y: 832
-        width: 64
-        height: 64
+        x: 927
+        y: 862
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1000,20 +1000,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c71cf3565024494ab4b173c94bc868f
-      internalID: 231135464
+      spriteID: 9356d2bb116b00940a167a5650e8c92c
+      internalID: 203086449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_43
+      name: fbas_05shrt_shortshirt_crop_43
       rect:
         serializedVersion: 2
-        x: 704
-        y: 832
-        width: 64
-        height: 64
+        x: 97
+        y: 858
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1021,20 +1021,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f74f073c0659fce4fa24ebe4a4de167f
-      internalID: 1734591282
+      spriteID: c6abac2b1ba539d4582f96e8a8bcc85c
+      internalID: 1978683126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_44
+      name: fbas_05shrt_shortshirt_crop_44
       rect:
         serializedVersion: 2
-        x: 768
-        y: 832
-        width: 64
-        height: 64
+        x: 288
+        y: 858
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,20 +1042,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f04d3905885482142a6722abbf0b1b25
-      internalID: 1204475890
+      spriteID: 26fd03ace69442043b1dd85e24ec49cd
+      internalID: -2099486711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_45
+      name: fbas_05shrt_shortshirt_crop_45
       rect:
         serializedVersion: 2
-        x: 832
-        y: 832
-        width: 64
-        height: 64
+        x: 482
+        y: 862
+        width: 11
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1063,20 +1063,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dcda77b1549a144983595cfce9fe3ea
-      internalID: -344785641
+      spriteID: 199bf21ef6e0c724598dfb33b47a51a9
+      internalID: -419966248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_46
+      name: fbas_05shrt_shortshirt_crop_46
       rect:
         serializedVersion: 2
-        x: 896
-        y: 832
-        width: 64
-        height: 64
+        x: 986
+        y: 858
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1084,20 +1084,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71d12acd62d9d84489187aafd563401b
-      internalID: -842838112
+      spriteID: 408abc136972efe4d8aabdd2d96337f5
+      internalID: -1203520682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_47
+      name: fbas_05shrt_shortshirt_crop_47
       rect:
         serializedVersion: 2
-        x: 960
-        y: 832
-        width: 64
-        height: 64
+        x: 217
+        y: 801
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1105,20 +1105,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41c99854d63709f4db150ad76c45e08d
-      internalID: 1526744206
+      spriteID: 8f46f7b9e24649b4ca86442abed9af6e
+      internalID: -201391743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_48
+      name: fbas_05shrt_shortshirt_crop_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
-        width: 64
-        height: 64
+        x: 283
+        y: 797
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,20 +1126,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ca9c4c51c0d6eb41897e9084fff2ba3
-      internalID: -1847669319
+      spriteID: 9557ca9fcac9e2b44bb8dde120b5595c
+      internalID: -430120785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_49
+      name: fbas_05shrt_shortshirt_crop_49
       rect:
         serializedVersion: 2
-        x: 64
-        y: 768
-        width: 64
-        height: 64
+        x: 346
+        y: 799
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1147,20 +1147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38e4e2c026dcbb24fa9c7240e50d1d55
-      internalID: 33641352
+      spriteID: f240e9d03ea3950419d5737304638684
+      internalID: -1583210083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_50
+      name: fbas_05shrt_shortshirt_crop_50
       rect:
         serializedVersion: 2
-        x: 128
-        y: 768
-        width: 64
-        height: 64
+        x: 409
+        y: 799
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,20 +1168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e57d190321db594c8e3c1724d13a8fe
-      internalID: 1295876819
+      spriteID: 2b51697b5a7f28c4bac4df664bf17d96
+      internalID: -274876260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_51
+      name: fbas_05shrt_shortshirt_crop_51
       rect:
         serializedVersion: 2
-        x: 192
-        y: 768
-        width: 64
-        height: 64
+        x: 473
+        y: 803
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1189,20 +1189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af828b291cca427458be074f29eaae55
-      internalID: 2036530488
+      spriteID: d9a66cd1b5aae6f4ba8e29465ac0ecfc
+      internalID: -2070507016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_52
+      name: fbas_05shrt_shortshirt_crop_52
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
-        width: 64
-        height: 64
+        x: 537
+        y: 803
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,20 +1210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4d107282c1f5b94eb5923ca31f2b23f
-      internalID: 1774620228
+      spriteID: feee10f37d547b1419c8269f5bc59510
+      internalID: -1802184252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_53
+      name: fbas_05shrt_shortshirt_crop_53
       rect:
         serializedVersion: 2
-        x: 320
-        y: 768
-        width: 64
-        height: 64
+        x: 601
+        y: 805
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1231,20 +1231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f0a24c2e7701904684feb29241454b1
-      internalID: 1974750706
+      spriteID: 13ed8d24cdb379b44b2de94ee323ccb2
+      internalID: 1088158331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_54
+      name: fbas_05shrt_shortshirt_crop_54
       rect:
         serializedVersion: 2
-        x: 384
-        y: 768
-        width: 64
-        height: 64
+        x: 669
+        y: 802
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1252,20 +1252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7056682f8392024eac63f5409024fef
-      internalID: 1729551318
+      spriteID: d6463fb06fb54634d88f5e6184578e25
+      internalID: 2037490606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_55
+      name: fbas_05shrt_shortshirt_crop_55
       rect:
         serializedVersion: 2
-        x: 448
-        y: 768
-        width: 64
-        height: 64
+        x: 733
+        y: 802
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,20 +1273,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d50c246e4242e9f48957a1e668fd709d
-      internalID: -1542526741
+      spriteID: 3646a660f5865d340a8b88db76049a41
+      internalID: -1251323105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_56
+      name: fbas_05shrt_shortshirt_crop_56
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
-        width: 64
-        height: 64
+        x: 797
+        y: 798
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1294,20 +1294,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9253af1f1ad1b5747a539057d68f3623
-      internalID: 855341258
+      spriteID: e055a02fbe0bf484489c1dedecbb4c3b
+      internalID: -1138811945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_57
+      name: fbas_05shrt_shortshirt_crop_57
       rect:
         serializedVersion: 2
-        x: 576
-        y: 768
-        width: 64
-        height: 64
+        x: 861
+        y: 798
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,20 +1315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd19db8e876bf6b4d8e764ae7fb339e4
-      internalID: -1921390647
+      spriteID: 04d0ebdba8c8bf347a11f25f12154b48
+      internalID: -627557888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_58
+      name: fbas_05shrt_shortshirt_crop_58
       rect:
         serializedVersion: 2
-        x: 640
-        y: 768
-        width: 64
-        height: 64
+        x: 924
+        y: 799
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1336,20 +1336,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6bc9410d97a2fc4aa1e6ef21cd9234d
-      internalID: -968437353
+      spriteID: 9a01052d94e9fdf41a5963fe0515f679
+      internalID: -6583687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_59
+      name: fbas_05shrt_shortshirt_crop_59
       rect:
         serializedVersion: 2
-        x: 704
-        y: 768
-        width: 64
-        height: 64
+        x: 988
+        y: 799
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1357,20 +1357,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3845af7bdc1b4b64e9f534212699e0e7
-      internalID: 225958446
+      spriteID: 3a7177111ce2f6744afa624d61ffdd68
+      internalID: 328366324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_60
+      name: fbas_05shrt_shortshirt_crop_60
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
-        width: 64
-        height: 64
+        x: 26
+        y: 798
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,20 +1378,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3320496b905a70641b7d5e400883572f
-      internalID: -186599733
+      spriteID: ae64f60b843c3fb46a5b5d9ed573d0be
+      internalID: 905980521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_61
+      name: fbas_05shrt_shortshirt_crop_61
       rect:
         serializedVersion: 2
-        x: 832
-        y: 768
-        width: 64
-        height: 64
+        x: 90
+        y: 798
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1399,20 +1399,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2115c2c614f0234abfe1ce59b6f9f8e
-      internalID: 1162578422
+      spriteID: 8590d6fd0cdd2c04ea93f6cb6dd52768
+      internalID: 773516456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_62
+      name: fbas_05shrt_shortshirt_crop_62
       rect:
         serializedVersion: 2
-        x: 896
-        y: 768
-        width: 64
-        height: 64
+        x: 154
+        y: 798
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1420,20 +1420,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98d7bb4b4690a1646b21897c11e7690d
-      internalID: 789890686
+      spriteID: 07d9854ce829cc24fbc5f92c904d509b
+      internalID: 584200524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_63
+      name: fbas_05shrt_shortshirt_crop_63
       rect:
         serializedVersion: 2
-        x: 960
-        y: 768
-        width: 64
-        height: 64
+        x: 27
+        y: 734
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,20 +1441,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7650779d1accd947b8f5dad0746076b
-      internalID: 259342930
+      spriteID: 1335413bae7c2e14193bf67d6ada6d6e
+      internalID: -241325740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_64
+      name: fbas_05shrt_shortshirt_crop_64
       rect:
         serializedVersion: 2
-        x: 0
-        y: 704
-        width: 64
-        height: 64
+        x: 93
+        y: 734
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1462,20 +1462,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f767e4907d77f44782d6b6fe1d87551
-      internalID: -1929451921
+      spriteID: 02203258d650aa44884a0bff67bd3ecd
+      internalID: -1834018277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_65
+      name: fbas_05shrt_shortshirt_crop_65
       rect:
         serializedVersion: 2
-        x: 64
-        y: 704
-        width: 64
-        height: 64
+        x: 157
+        y: 734
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1483,20 +1483,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a80c7e9ac214c3949a839101e04c129a
-      internalID: -1744352899
+      spriteID: 42b6ff28721184e4eb9d31de4a336ede
+      internalID: -1905342607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_66
+      name: fbas_05shrt_shortshirt_crop_66
       rect:
         serializedVersion: 2
-        x: 128
-        y: 704
-        width: 64
-        height: 64
+        x: 221
+        y: 734
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1504,20 +1504,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6ed361797cf8e84ea312603e3869d3b
-      internalID: -1138975997
+      spriteID: 7dc700c8989669042bc8ea691ccd9e9d
+      internalID: -1600942871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_67
+      name: fbas_05shrt_shortshirt_crop_67
       rect:
         serializedVersion: 2
-        x: 192
-        y: 704
-        width: 64
-        height: 64
+        x: 283
+        y: 733
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1525,20 +1525,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fafb91f11772d4b42850e5a73d862798
-      internalID: 382398107
+      spriteID: f364f18086cdd5844b328a9044e64283
+      internalID: 1871649259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_68
+      name: fbas_05shrt_shortshirt_crop_68
       rect:
         serializedVersion: 2
-        x: 256
-        y: 704
-        width: 64
-        height: 64
+        x: 346
+        y: 733
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1546,20 +1546,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eca296aa3a13cab47af093f0520cdfb7
-      internalID: -1384411557
+      spriteID: c85aa7fe24869fc46afd318fea7578e5
+      internalID: 1027047246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_69
+      name: fbas_05shrt_shortshirt_crop_69
       rect:
         serializedVersion: 2
-        x: 320
-        y: 704
-        width: 64
-        height: 64
+        x: 413
+        y: 738
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1567,20 +1567,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef22ec14d5e7fb249a68e0dae265bbb2
-      internalID: -554776720
+      spriteID: 61ef741c3fae5234b854b617dab3167b
+      internalID: -800095049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_70
+      name: fbas_05shrt_shortshirt_crop_70
       rect:
         serializedVersion: 2
-        x: 384
-        y: 704
-        width: 64
-        height: 64
+        x: 474
+        y: 738
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1588,20 +1588,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b85cfeb66bb1fed42b4b62bd7fa364f9
-      internalID: -261953892
+      spriteID: e5be93a5b20f85a4bb94bd5e0f951db3
+      internalID: 1121546874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_71
+      name: fbas_05shrt_shortshirt_crop_71
       rect:
         serializedVersion: 2
-        x: 448
-        y: 704
-        width: 64
-        height: 64
+        x: 538
+        y: 738
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1609,20 +1609,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17dec4992b31c3243b291185d06b5c05
-      internalID: 2104264125
+      spriteID: 1c01928e0f80f3141b5034026678752b
+      internalID: -2143047954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_72
+      name: fbas_05shrt_shortshirt_crop_72
       rect:
         serializedVersion: 2
-        x: 512
-        y: 704
-        width: 64
-        height: 64
+        x: 602
+        y: 740
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1630,20 +1630,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 116e411f79d38464aa29e4f7afe5939f
-      internalID: -202579662
+      spriteID: 884b01a73b3832f4f805c1ae93d24928
+      internalID: -852780951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_73
+      name: fbas_05shrt_shortshirt_crop_73
       rect:
         serializedVersion: 2
-        x: 576
-        y: 704
-        width: 64
-        height: 64
+        x: 668
+        y: 737
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1651,20 +1651,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be15fcaedc60be442bf706efd8b1f2f0
-      internalID: -1390312347
+      spriteID: c803e4d098e612049913f9f5fe733839
+      internalID: 1234746887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_74
+      name: fbas_05shrt_shortshirt_crop_74
       rect:
         serializedVersion: 2
-        x: 640
-        y: 704
-        width: 64
-        height: 64
+        x: 732
+        y: 737
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1672,20 +1672,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd32df6702c826744ad7ea276a3d0e75
-      internalID: 749877886
+      spriteID: c2ce07fba24edb24f8cef2485c6646ba
+      internalID: 464901144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_75
+      name: fbas_05shrt_shortshirt_crop_75
       rect:
         serializedVersion: 2
-        x: 704
-        y: 704
-        width: 64
-        height: 64
+        x: 795
+        y: 734
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1693,20 +1693,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ca6699b4e5a0a04ba8c3ac993398c98
-      internalID: 1053340551
+      spriteID: 58438fe610868124fadfcf448bbf84b7
+      internalID: -75570917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_76
+      name: fbas_05shrt_shortshirt_crop_76
       rect:
         serializedVersion: 2
-        x: 768
-        y: 704
-        width: 64
-        height: 64
+        x: 859
+        y: 734
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1714,20 +1714,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f31a47c8b63b0b74db387597f2285bda
-      internalID: 2103803182
+      spriteID: 593b120f1decee84d90c9082261a05a3
+      internalID: -685001637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_77
+      name: fbas_05shrt_shortshirt_crop_77
       rect:
         serializedVersion: 2
-        x: 832
-        y: 704
-        width: 64
-        height: 64
+        x: 920
+        y: 729
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1735,20 +1735,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9059227f42ec5e4a8b35945d939544a
-      internalID: -1747378358
+      spriteID: 0017a43d11b0bcc4595e91812c49e88b
+      internalID: -1962583062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_78
+      name: fbas_05shrt_shortshirt_crop_78
       rect:
         serializedVersion: 2
-        x: 896
-        y: 704
-        width: 64
-        height: 64
+        x: 984
+        y: 729
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1756,20 +1756,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3f86a55f1bfda4428ca1eda02e6cbc4
-      internalID: 1627216923
+      spriteID: 4156adcca3576f448bb05fc12db76aba
+      internalID: -1919206188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_79
+      name: fbas_05shrt_shortshirt_crop_79
       rect:
         serializedVersion: 2
-        x: 960
-        y: 704
-        width: 64
-        height: 64
+        x: 25
+        y: 670
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1777,20 +1777,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f4964ed1d66f2b429d257e427b7aa6d
-      internalID: 808635035
+      spriteID: 76d88dcd4cafe2049b3ec64ea9d83224
+      internalID: -1074743720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_80
+      name: fbas_05shrt_shortshirt_crop_80
       rect:
         serializedVersion: 2
-        x: 0
-        y: 640
-        width: 64
-        height: 64
+        x: 89
+        y: 670
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1798,20 +1798,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f120b9d6911f50447a705a3016e8948f
-      internalID: -730882048
+      spriteID: 7e7d0d65456a09a4594be7bf4d62b547
+      internalID: -810391574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_81
+      name: fbas_05shrt_shortshirt_crop_81
       rect:
         serializedVersion: 2
-        x: 64
-        y: 640
-        width: 64
-        height: 64
+        x: 153
+        y: 670
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1819,20 +1819,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dfefec52782f7a4d99634041488fa47
-      internalID: -1993585530
+      spriteID: 87d68692f78d4a24c98007b8f3294775
+      internalID: -2093832124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_82
+      name: fbas_05shrt_shortshirt_crop_82
       rect:
         serializedVersion: 2
-        x: 128
-        y: 640
-        width: 64
-        height: 64
+        x: 217
+        y: 673
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1840,20 +1840,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f133cb3bffc164b8f9612959ac5b8a
-      internalID: 612205391
+      spriteID: b4d7b8333d6c4234ab9e5be9a96f31bb
+      internalID: 947694788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_83
+      name: fbas_05shrt_shortshirt_crop_83
       rect:
         serializedVersion: 2
-        x: 192
-        y: 640
-        width: 64
-        height: 64
+        x: 281
+        y: 669
+        width: 14
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1861,20 +1861,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd256e13c1a816c4fbd6d9ef4f139c00
-      internalID: 2068426487
+      spriteID: f83d50f5bf850124486968c458a0b2c6
+      internalID: 2134698025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_84
+      name: fbas_05shrt_shortshirt_crop_84
       rect:
         serializedVersion: 2
-        x: 256
-        y: 640
-        width: 64
-        height: 64
+        x: 345
+        y: 671
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1882,20 +1882,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d7a3c12a46ade941a5590727daf0411
-      internalID: -1279294955
+      spriteID: 1b1fc958a9b2fa34d9ecc57560d0e2cc
+      internalID: 1355982952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_85
+      name: fbas_05shrt_shortshirt_crop_85
       rect:
         serializedVersion: 2
-        x: 320
-        y: 640
-        width: 64
-        height: 64
+        x: 409
+        y: 671
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1903,20 +1903,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aae4f755b6fcc2d4b866ce91048d760e
-      internalID: -1751481498
+      spriteID: 66b81a846e6f04140b3235056ce85f85
+      internalID: -21371010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_86
+      name: fbas_05shrt_shortshirt_crop_86
       rect:
         serializedVersion: 2
-        x: 384
-        y: 640
-        width: 64
-        height: 64
+        x: 473
+        y: 675
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1924,20 +1924,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee97ef31c6a1bae4d9481dae93df2416
-      internalID: -927255206
+      spriteID: d9c0e07b3ab3b224da7ac7216333899c
+      internalID: -926714363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_87
+      name: fbas_05shrt_shortshirt_crop_87
       rect:
         serializedVersion: 2
-        x: 448
-        y: 640
-        width: 64
-        height: 64
+        x: 539
+        y: 674
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1945,20 +1945,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a37c5c450411bc442bbafca86821923d
-      internalID: 798896606
+      spriteID: e88578b1f5422f645b2181c27d20445c
+      internalID: -1604069833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_88
+      name: fbas_05shrt_shortshirt_crop_88
       rect:
         serializedVersion: 2
-        x: 512
-        y: 640
-        width: 64
-        height: 64
+        x: 603
+        y: 677
+        width: 7
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1966,20 +1966,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15441e6b5a26f0f44acb9ef8d120b5d5
-      internalID: 321748817
+      spriteID: 7469773ec9ec27b419b05daf37aa14a2
+      internalID: -1081150671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_89
+      name: fbas_05shrt_shortshirt_crop_89
       rect:
         serializedVersion: 2
-        x: 576
-        y: 640
-        width: 64
-        height: 64
+        x: 667
+        y: 673
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1987,20 +1987,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43e1c56cbe2fe5846b9cb654d00423c0
-      internalID: 790555964
+      spriteID: 513b133b365f7be4e81413401d7eae99
+      internalID: -1284532187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_90
+      name: fbas_05shrt_shortshirt_crop_90
       rect:
         serializedVersion: 2
-        x: 640
-        y: 640
-        width: 64
-        height: 64
+        x: 731
+        y: 673
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2008,20 +2008,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd49e794ebd98874d9fbccaf1a9bf455
-      internalID: 2041248293
+      spriteID: 8fceded752066a6489f8c87d088ed227
+      internalID: 414754445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_91
+      name: fbas_05shrt_shortshirt_crop_91
       rect:
         serializedVersion: 2
-        x: 704
-        y: 640
-        width: 64
-        height: 64
+        x: 792
+        y: 670
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2029,20 +2029,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5bfaf1fe8ac38d40b2d92ad11938b49
-      internalID: -2012830423
+      spriteID: 2953ef3a6087f3640be47c45917a4e12
+      internalID: -1853648059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_92
+      name: fbas_05shrt_shortshirt_crop_92
       rect:
         serializedVersion: 2
-        x: 768
-        y: 640
-        width: 64
-        height: 64
+        x: 856
+        y: 670
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2050,20 +2050,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7670e6ab25a5d3541829f9211b0308c8
-      internalID: 1693554549
+      spriteID: 04483a07405cba0409482d5b9e6f5e4a
+      internalID: -1384154499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_93
+      name: fbas_05shrt_shortshirt_crop_93
       rect:
         serializedVersion: 2
-        x: 832
-        y: 640
-        width: 64
-        height: 64
+        x: 918
+        y: 667
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2071,20 +2071,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca3f81e66a51c1040a5eac73345f2b41
-      internalID: 808171785
+      spriteID: 029e2577392ed3e4d9b45d036a7584e9
+      internalID: 802851236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_94
+      name: fbas_05shrt_shortshirt_crop_94
       rect:
         serializedVersion: 2
-        x: 896
-        y: 640
-        width: 64
-        height: 64
+        x: 982
+        y: 667
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2092,20 +2092,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2611732854606ec42814e825c5f234c5
-      internalID: 1005454881
+      spriteID: 01335dc68e502a249bc480fa244c623e
+      internalID: 1513029167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_95
+      name: fbas_05shrt_shortshirt_crop_95
       rect:
         serializedVersion: 2
-        x: 960
-        y: 640
-        width: 64
-        height: 64
+        x: 29
+        y: 606
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2113,20 +2113,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 689730f05e4bfdd48af42ddf9191e2f9
-      internalID: 1285909186
+      spriteID: ad01cfaece1ecc44da625cedc8b6a45b
+      internalID: -1281738301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_96
+      name: fbas_05shrt_shortshirt_crop_96
       rect:
         serializedVersion: 2
-        x: 0
-        y: 576
-        width: 64
-        height: 64
+        x: 93
+        y: 607
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2134,20 +2134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b80c9b28845c28743baf17f6109170e3
-      internalID: -1770943735
+      spriteID: 263acad9dcf7ace4fb4c311329b561a8
+      internalID: -458927114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_97
+      name: fbas_05shrt_shortshirt_crop_97
       rect:
         serializedVersion: 2
-        x: 64
-        y: 576
-        width: 64
-        height: 64
+        x: 157
+        y: 606
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2155,20 +2155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d693afaeb90db44ea92363df7eb60f0
-      internalID: 1452576649
+      spriteID: c6d1d37b007341447aaa3c9cd3effdcf
+      internalID: -1450260654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_98
+      name: fbas_05shrt_shortshirt_crop_98
       rect:
         serializedVersion: 2
-        x: 128
-        y: 576
-        width: 64
-        height: 64
+        x: 221
+        y: 607
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2176,20 +2176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6ad3632b43c3ef43af90b22956c785d
-      internalID: -647586222
+      spriteID: e55f5e2f7a5afc346beabb42ac8cf1c9
+      internalID: 239750741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_99
+      name: fbas_05shrt_shortshirt_crop_99
       rect:
         serializedVersion: 2
-        x: 192
-        y: 576
-        width: 64
-        height: 64
+        x: 285
+        y: 607
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2197,20 +2197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84bc8e892fa49f14a98bd6a30513fd87
-      internalID: -1602009544
+      spriteID: dd0ad8156bdb2fd4bab27e3d50c61769
+      internalID: 1895382221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_100
+      name: fbas_05shrt_shortshirt_crop_100
       rect:
         serializedVersion: 2
-        x: 256
-        y: 576
-        width: 64
-        height: 64
+        x: 349
+        y: 606
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2218,20 +2218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad0fb4a1606139a408c76b3191c9c95e
-      internalID: 51643309
+      spriteID: fc96db42c9a97ea4f813baa9b826ec1d
+      internalID: -937488153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_101
+      name: fbas_05shrt_shortshirt_crop_101
       rect:
         serializedVersion: 2
-        x: 320
-        y: 576
-        width: 64
-        height: 64
+        x: 413
+        y: 610
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2239,20 +2239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc7c495620c037d45b465f27679dac2f
-      internalID: -2132652188
+      spriteID: 6afb887b63e943442aa0b01e90354df4
+      internalID: 1073258779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_102
+      name: fbas_05shrt_shortshirt_crop_102
       rect:
         serializedVersion: 2
-        x: 384
-        y: 576
-        width: 64
-        height: 64
+        x: 477
+        y: 610
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2260,20 +2260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14bb5654458f47744a5068a9ca9e89b2
-      internalID: -218335167
+      spriteID: bb98727974da0a541b85338007e0ab48
+      internalID: -555855067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_103
+      name: fbas_05shrt_shortshirt_crop_103
       rect:
         serializedVersion: 2
-        x: 448
-        y: 576
-        width: 64
-        height: 64
+        x: 601
+        y: 606
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2281,20 +2281,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4586524eb93cfc468fd002750ce4652
-      internalID: 1647894087
+      spriteID: bdf416cf02430764392f099b97508cb8
+      internalID: 1645219161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_104
+      name: fbas_05shrt_shortshirt_crop_104
       rect:
         serializedVersion: 2
-        x: 512
-        y: 576
-        width: 64
-        height: 64
+        x: 670
+        y: 606
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2302,20 +2302,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8f80ef60aa3e7b46912e38d975b50ee
-      internalID: 2014160069
+      spriteID: e823d409b86f1854a8337009ec10ec98
+      internalID: -629379015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_105
+      name: fbas_05shrt_shortshirt_crop_105
       rect:
         serializedVersion: 2
-        x: 576
-        y: 576
-        width: 64
-        height: 64
+        x: 734
+        y: 606
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2323,20 +2323,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5824bbd366ab22141a35f782f42f1cf1
-      internalID: -86789795
+      spriteID: 29c82223a7df51c4b845d47496db1415
+      internalID: -1245822602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_106
+      name: fbas_05shrt_shortshirt_crop_106
       rect:
         serializedVersion: 2
-        x: 640
-        y: 576
-        width: 64
-        height: 64
+        x: 540
+        y: 599
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2344,20 +2344,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1ddb6fa1c619134b8d4533aea4e4bd9
-      internalID: -569261949
+      spriteID: 74ab0fb4308934e42863a7dd222b3b24
+      internalID: -1882022576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_107
+      name: fbas_05shrt_shortshirt_crop_107
       rect:
         serializedVersion: 2
-        x: 704
-        y: 576
-        width: 64
-        height: 64
+        x: 800
+        y: 602
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2365,20 +2365,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8170fb1f57c764745aa5c0f03de59753
-      internalID: -1110712433
+      spriteID: 607d4273a2101ec4da73103e7d3de295
+      internalID: 1825132082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_108
+      name: fbas_05shrt_shortshirt_crop_108
       rect:
         serializedVersion: 2
-        x: 768
-        y: 576
-        width: 64
-        height: 64
+        x: 864
+        y: 602
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2386,20 +2386,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cd320fccab4b484ea03f844809a1689
-      internalID: -445906969
+      spriteID: ad89545f123bd994abe59e81088b704e
+      internalID: 1195366089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_109
+      name: fbas_05shrt_shortshirt_crop_109
       rect:
         serializedVersion: 2
-        x: 832
-        y: 576
-        width: 64
-        height: 64
+        x: 928
+        y: 602
+        width: 10
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2407,20 +2407,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e3aa36a7bfea43488c0c85f4cb0034a
-      internalID: -71018045
+      spriteID: 51fa1995e634cbe4e899d053f3d725c0
+      internalID: -917024922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_110
+      name: fbas_05shrt_shortshirt_crop_110
       rect:
         serializedVersion: 2
-        x: 896
-        y: 576
-        width: 64
-        height: 64
+        x: 992
+        y: 602
+        width: 10
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2428,20 +2428,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce069094c0910a4408698aba1536ea9a
-      internalID: 162792865
+      spriteID: d39bc5d30cc87da49ba781b65524f948
+      internalID: 128871641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_111
+      name: fbas_05shrt_shortshirt_crop_111
       rect:
         serializedVersion: 2
-        x: 960
-        y: 576
-        width: 64
-        height: 64
+        x: 25
+        y: 542
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2449,20 +2449,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65b36b41330d24746ab7e83a753196e6
-      internalID: -783335884
+      spriteID: e2387fbb0817ece43a3cc8e7c2df2b6c
+      internalID: 363317237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_112
+      name: fbas_05shrt_shortshirt_crop_112
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 64
-        height: 64
+        x: 89
+        y: 542
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2470,20 +2470,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f3b9651a25bb6a4983c2d54a21b4b28
-      internalID: 715703565
+      spriteID: 5b7a778b1f17b944a8bb80c48c1f37eb
+      internalID: -862316918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_113
+      name: fbas_05shrt_shortshirt_crop_113
       rect:
         serializedVersion: 2
-        x: 64
-        y: 512
-        width: 64
-        height: 64
+        x: 156
+        y: 542
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2491,20 +2491,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1626cc59aa475c34bb540ad74194a9f2
-      internalID: -573074508
+      spriteID: c77ba8565bd32164ca9f22a7a508fd60
+      internalID: -927614673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_114
+      name: fbas_05shrt_shortshirt_crop_114
       rect:
         serializedVersion: 2
-        x: 128
-        y: 512
-        width: 64
-        height: 64
+        x: 220
+        y: 542
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2512,20 +2512,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3046bb6e6e39bfc4480b398338f6d2a0
-      internalID: 1191065526
+      spriteID: 74da5063d2b17b44a94ba72219eed257
+      internalID: -737093563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_115
+      name: fbas_05shrt_shortshirt_crop_115
       rect:
         serializedVersion: 2
-        x: 192
-        y: 512
-        width: 64
-        height: 64
+        x: 278
+        y: 541
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2533,20 +2533,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4446a9360b1f3284782d7e4f06f3c8f1
-      internalID: 1521797175
+      spriteID: 484d531edfdbf5a46a8c2a6868429271
+      internalID: -1257240207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_116
+      name: fbas_05shrt_shortshirt_crop_116
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
-        width: 64
-        height: 64
+        x: 346
+        y: 545
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2554,20 +2554,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1592e56f58b22e4b9bcf91c95c33a61
-      internalID: -668978465
+      spriteID: 53ffd453a59ba0c4d827343ade4bc52f
+      internalID: 967838231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_117
+      name: fbas_05shrt_shortshirt_crop_117
       rect:
         serializedVersion: 2
-        x: 320
-        y: 512
-        width: 64
-        height: 64
+        x: 410
+        y: 544
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2575,20 +2575,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ecbe1618db043042b3bb87e242a5492
-      internalID: -566269591
+      spriteID: 87a4395e2326bb64ab932f195228e377
+      internalID: -447655011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_118
+      name: fbas_05shrt_shortshirt_crop_118
       rect:
         serializedVersion: 2
-        x: 384
-        y: 512
-        width: 64
-        height: 64
+        x: 473
+        y: 545
+        width: 14
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2596,20 +2596,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98aa9ca49c8359d4ea83adf894ef84ea
-      internalID: -119300109
+      spriteID: bc1e085f2afc8724785102c94eb58482
+      internalID: -1370379310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_119
+      name: fbas_05shrt_shortshirt_crop_119
       rect:
         serializedVersion: 2
-        x: 448
-        y: 512
-        width: 64
-        height: 64
+        x: 536
+        y: 541
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2617,20 +2617,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bd908a4058d6fd4c8cedf37e8349359
-      internalID: -551461624
+      spriteID: 780d7c5d8863f904fb6ea0f261fb9635
+      internalID: 334834174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_120
+      name: fbas_05shrt_shortshirt_crop_120
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 64
-        height: 64
+        x: 600
+        y: 541
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2638,20 +2638,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85d2596799887f4438948b5aa25ce1d1
-      internalID: -1029376068
+      spriteID: 0739689f88ff18446a5fe5014c35eb57
+      internalID: -976809822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_121
+      name: fbas_05shrt_shortshirt_crop_121
       rect:
         serializedVersion: 2
-        x: 576
-        y: 512
-        width: 64
-        height: 64
+        x: 664
+        y: 541
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2659,20 +2659,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14369332878518f4c90fb43c7489e27c
-      internalID: -1329397618
+      spriteID: 5fd802e1070653a4aa254e832b19631d
+      internalID: 928778569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_122
+      name: fbas_05shrt_shortshirt_crop_122
       rect:
         serializedVersion: 2
-        x: 640
-        y: 512
-        width: 64
-        height: 64
+        x: 728
+        y: 541
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2680,20 +2680,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8df1d543e3a80b4ab31b6e1b1aec53f
-      internalID: 500579587
+      spriteID: c5f5b4e4d81a7d4468686833bb788648
+      internalID: -133268076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_123
+      name: fbas_05shrt_shortshirt_crop_123
       rect:
         serializedVersion: 2
-        x: 704
-        y: 512
-        width: 64
-        height: 64
+        x: 792
+        y: 542
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2701,20 +2701,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf9cd992e81680544882d0e562962af3
-      internalID: 1693658627
+      spriteID: 5ae9ee5e960254e4a8f568021bc1b6da
+      internalID: 1184239435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_124
+      name: fbas_05shrt_shortshirt_crop_124
       rect:
         serializedVersion: 2
-        x: 768
-        y: 512
-        width: 64
-        height: 64
+        x: 860
+        y: 541
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2722,20 +2722,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e26bca7c49f9544aa0ef85edd2ec72d
-      internalID: 951771388
+      spriteID: 6473e59dbf69b63409092376f625fd9e
+      internalID: 185627778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_125
+      name: fbas_05shrt_shortshirt_crop_125
       rect:
         serializedVersion: 2
-        x: 832
-        y: 512
-        width: 64
-        height: 64
+        x: 922
+        y: 542
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2743,20 +2743,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15ae1996db0d62b4cb65bf28f5ac0445
-      internalID: -1868320973
+      spriteID: 458471ada0c3ba64da9409b6cf0d717a
+      internalID: -874270493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_126
+      name: fbas_05shrt_shortshirt_crop_126
       rect:
         serializedVersion: 2
-        x: 896
-        y: 512
-        width: 64
-        height: 64
+        x: 986
+        y: 542
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2764,20 +2764,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cc1c8ee91beec747b8a5fb7dd6dde23
-      internalID: -737933993
+      spriteID: 5b929c63319b05645a3197d8d3b262be
+      internalID: -466232914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_127
+      name: fbas_05shrt_shortshirt_crop_127
       rect:
         serializedVersion: 2
-        x: 960
-        y: 512
-        width: 64
-        height: 64
+        x: 25
+        y: 481
+        width: 14
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2785,20 +2785,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6501b97b32de8040aa7a38452376a1c
-      internalID: 830114672
+      spriteID: 6838e95cba3a68b47b5fcfebda8aed75
+      internalID: -1120111949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_128
+      name: fbas_05shrt_shortshirt_crop_128
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
-        width: 64
-        height: 64
+        x: 90
+        y: 479
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2806,20 +2806,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e247d846013c784cbdb5fcfe229fee6
-      internalID: 1159317429
+      spriteID: 953602377109a35448b37d11d001356d
+      internalID: 1331835291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_129
+      name: fbas_05shrt_shortshirt_crop_129
       rect:
         serializedVersion: 2
-        x: 64
-        y: 448
-        width: 64
-        height: 64
+        x: 221
+        y: 479
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2827,20 +2827,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6dcdbb95da07a0849b59fbee447fc03d
-      internalID: 85941842
+      spriteID: c28d1c9387af1bf4e81141768ca1cfcf
+      internalID: 731622266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_130
+      name: fbas_05shrt_shortshirt_crop_130
       rect:
         serializedVersion: 2
-        x: 128
-        y: 448
-        width: 64
-        height: 64
+        x: 283
+        y: 477
+        width: 11
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2848,20 +2848,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f79d3eeeb8ee5245bfe09579d7f0d15
-      internalID: -1162441532
+      spriteID: 0d44d31ef21d38d43aadbcf0b3195a3d
+      internalID: 1483593067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_131
+      name: fbas_05shrt_shortshirt_crop_131
       rect:
         serializedVersion: 2
-        x: 192
-        y: 448
-        width: 64
-        height: 64
+        x: 346
+        y: 475
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2869,20 +2869,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0abf52a5f26033e40972a06db903e961
-      internalID: 1329360556
+      spriteID: 3b8217f93d2de1449bc0b32a954a3bb3
+      internalID: 975550896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_132
+      name: fbas_05shrt_shortshirt_crop_132
       rect:
         serializedVersion: 2
-        x: 256
-        y: 448
-        width: 64
-        height: 64
+        x: 408
+        y: 478
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2890,20 +2890,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cced1a08ec087b4fab91a735419e2ac
-      internalID: -444180958
+      spriteID: 46e3846e70d4a14419e8159ed84f1dd7
+      internalID: -2091459805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_133
+      name: fbas_05shrt_shortshirt_crop_133
       rect:
         serializedVersion: 2
-        x: 320
-        y: 448
-        width: 64
-        height: 64
+        x: 470
+        y: 478
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2911,20 +2911,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b4b6e168c5c38e43a7b6c5f3f0828c6
-      internalID: -1050811062
+      spriteID: 1c4b2dec890b9ac42ae3f6b0f58d803b
+      internalID: -120043640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_134
+      name: fbas_05shrt_shortshirt_crop_134
       rect:
         serializedVersion: 2
-        x: 384
-        y: 448
-        width: 64
-        height: 64
+        x: 153
+        y: 475
+        width: 14
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2932,20 +2932,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7379d1b446d2f314783e3a9547be67cf
-      internalID: -748253600
+      spriteID: a8370f71ede6649479f437ef3f44395b
+      internalID: -863290356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_135
+      name: fbas_05shrt_shortshirt_crop_135
       rect:
         serializedVersion: 2
-        x: 448
-        y: 448
-        width: 64
-        height: 64
+        x: 25
+        y: 418
+        width: 14
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2953,20 +2953,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16c1d88eb098d09459a41b1512761b38
-      internalID: -1178813474
+      spriteID: 549ca43c78fffee4eaace6ca6454c067
+      internalID: -1242654298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_136
+      name: fbas_05shrt_shortshirt_crop_136
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
-        width: 64
-        height: 64
+        x: 90
+        y: 415
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2974,20 +2974,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b835926b29b46924fa092d6794bbeee1
-      internalID: 1678288151
+      spriteID: 8be6d2811f0c68146abedd89d4137934
+      internalID: 2133615322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_137
+      name: fbas_05shrt_shortshirt_crop_137
       rect:
         serializedVersion: 2
-        x: 64
-        y: 384
-        width: 64
-        height: 64
+        x: 217
+        y: 413
+        width: 12
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2995,20 +2995,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8069ad84cde7c314896587e9cb0453d4
-      internalID: -544502736
+      spriteID: 3ee99e45f79149a4ba22bc6fd74b9d54
+      internalID: -62100246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_138
+      name: fbas_05shrt_shortshirt_crop_138
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 64
-        height: 64
+        x: 281
+        y: 415
+        width: 13
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3016,20 +3016,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c53479872fe3f84e85ea8454ad3299c
-      internalID: -641835243
+      spriteID: 2d538167327fd684aa923427b263515a
+      internalID: -461522952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_139
+      name: fbas_05shrt_shortshirt_crop_139
       rect:
         serializedVersion: 2
-        x: 192
-        y: 384
-        width: 64
-        height: 64
+        x: 346
+        y: 415
+        width: 12
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3037,20 +3037,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 546fd8422cb053c40b493f0708aa8d07
-      internalID: 2070410219
+      spriteID: f28c7b636baa18f4cbfffe46f2c7ee95
+      internalID: 466646822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_140
+      name: fbas_05shrt_shortshirt_crop_140
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
-        width: 64
-        height: 64
+        x: 414
+        y: 414
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3058,20 +3058,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 185addc3733fbfe47808fefd57eb3a7e
-      internalID: -1484056060
+      spriteID: 1092c0acca020ba419ec9625900afd8b
+      internalID: 836171397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_141
+      name: fbas_05shrt_shortshirt_crop_141
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
-        width: 64
-        height: 64
+        x: 478
+        y: 413
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3079,20 +3079,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 238cf7e01d1acba4c985957b3e2d09d7
-      internalID: 472191684
+      spriteID: 7316a4c6055c5a54e9b875a8b6196af7
+      internalID: 273921702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_142
+      name: fbas_05shrt_shortshirt_crop_142
       rect:
         serializedVersion: 2
-        x: 384
-        y: 384
-        width: 64
-        height: 64
+        x: 153
+        y: 411
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3100,20 +3100,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 677c06402a8b4184f9a11a5f522b1526
-      internalID: 1060947506
+      spriteID: d332599ba433654489e44cfd028f784f
+      internalID: 35898947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_143
+      name: fbas_05shrt_shortshirt_crop_143
       rect:
         serializedVersion: 2
-        x: 448
-        y: 384
-        width: 64
-        height: 64
+        x: 28
+        y: 353
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3121,20 +3121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 812a411475cebe04aa0b915ee014b610
-      internalID: 1783360123
+      spriteID: af16fe5fea65dd344b80bd280ad6d63d
+      internalID: -1804581288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_144
+      name: fbas_05shrt_shortshirt_crop_144
       rect:
         serializedVersion: 2
-        x: 0
-        y: 320
-        width: 64
-        height: 64
+        x: 95
+        y: 351
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3142,20 +3142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96335ccc4ab8fdc4cb9780fddbb93cc6
-      internalID: -2140499024
+      spriteID: 32a86ab367491b843b695540e83b5408
+      internalID: -1212946824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_145
+      name: fbas_05shrt_shortshirt_crop_145
       rect:
         serializedVersion: 2
-        x: 64
-        y: 320
-        width: 64
-        height: 64
+        x: 158
+        y: 348
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3163,20 +3163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcc60c7972ba2c942b843da8d30122ec
-      internalID: -2030401773
+      spriteID: d57fe468fd4c0c049814b3a07b69436b
+      internalID: -438883124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_146
+      name: fbas_05shrt_shortshirt_crop_146
       rect:
         serializedVersion: 2
-        x: 128
-        y: 320
-        width: 64
-        height: 64
+        x: 221
+        y: 350
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3184,20 +3184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5df7dd377997b144cad5eb03cd265ef7
-      internalID: -341717018
+      spriteID: 17c644b6989c4f745b12244a79f16950
+      internalID: -383463606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_147
+      name: fbas_05shrt_shortshirt_crop_147
       rect:
         serializedVersion: 2
-        x: 192
-        y: 320
-        width: 64
-        height: 64
+        x: 289
+        y: 348
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3205,20 +3205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f507d7ab7b9a03458f10e1e98895665
-      internalID: 56523665
+      spriteID: 0963a7853dd3edb4bb9fe9fb6f9e8550
+      internalID: -2073415142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_148
+      name: fbas_05shrt_shortshirt_crop_148
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
+        x: 353
+        y: 350
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3226,20 +3226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eaeea9cc130d7774c915d14ccc9142cb
-      internalID: -2065668297
+      spriteID: 23083842597336f48b3dfd055e887f65
+      internalID: 1636601546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_149
+      name: fbas_05shrt_shortshirt_crop_149
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
-        width: 64
-        height: 64
+        x: 415
+        y: 349
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3247,20 +3247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20cafcf26d62da346b196b8fd5fe117f
-      internalID: 123983295
+      spriteID: 2af7c038363aa1641a2b8aef68ca77d5
+      internalID: -1155766318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_150
+      name: fbas_05shrt_shortshirt_crop_150
       rect:
         serializedVersion: 2
-        x: 384
-        y: 320
-        width: 64
-        height: 64
+        x: 476
+        y: 349
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3268,20 +3268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 777710f5884cb4b4e850a1dfd3e42d00
-      internalID: 372875176
+      spriteID: dceb7d7682b685541a67d5447964ddd7
+      internalID: -483374997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_151
+      name: fbas_05shrt_shortshirt_crop_151
       rect:
         serializedVersion: 2
-        x: 448
-        y: 320
-        width: 64
-        height: 64
+        x: 22
+        y: 283
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3289,20 +3289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a25b638f998bc346b7391b359522710
-      internalID: 979968773
+      spriteID: 2f27b352cdcd8f84d9273f34a5456578
+      internalID: 1794715645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_152
+      name: fbas_05shrt_shortshirt_crop_152
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 64
-        height: 64
+        x: 88
+        y: 286
+        width: 15
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3310,20 +3310,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d93503532ab53414bb957ff843e6c4ba
-      internalID: 874709728
+      spriteID: 4b81e66fd3e83824d9ffee1b109c65a9
+      internalID: 639593849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_153
+      name: fbas_05shrt_shortshirt_crop_153
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
+        x: 151
+        y: 287
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3331,20 +3331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bfb6489ca799d649b3da8c92a2ba49c
-      internalID: -1089910977
+      spriteID: 0698f93630b18044c831bde53436c59d
+      internalID: -366690356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_154
+      name: fbas_05shrt_shortshirt_crop_154
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 64
-        height: 64
+        x: 213
+        y: 283
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3352,20 +3352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51ab165530d255443842253ec9b9a2a7
-      internalID: -1349583415
+      spriteID: 6d8c94cefd6e64c4193f9b1a27c44153
+      internalID: 2119783454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_155
+      name: fbas_05shrt_shortshirt_crop_155
       rect:
         serializedVersion: 2
-        x: 192
-        y: 256
-        width: 64
-        height: 64
+        x: 343
+        y: 287
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3373,20 +3373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c17032d4a6b38b449afa630c6c7b17c1
-      internalID: -446547715
+      spriteID: 5aed4225465acf940b3af1cb052e30e5
+      internalID: 1611267309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_156
+      name: fbas_05shrt_shortshirt_crop_156
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
-        width: 64
-        height: 64
+        x: 415
+        y: 282
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3394,20 +3394,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99306561ef5e90b44a2e43e0282eda3b
-      internalID: 1891629981
+      spriteID: fade059763d73224ca302cb5b3c1c4b8
+      internalID: 579313890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_157
+      name: fbas_05shrt_shortshirt_crop_157
       rect:
         serializedVersion: 2
-        x: 320
-        y: 256
-        width: 64
-        height: 64
+        x: 657
+        y: 208
+        width: 176
+        height: 99
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3415,20 +3415,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9d69627deb2fb14aa6a6af8336289a2
-      internalID: 1810822134
+      spriteID: 912894e627ff74041b3bb18a32029419
+      internalID: 1747432977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_158
+      name: fbas_05shrt_shortshirt_crop_158
       rect:
         serializedVersion: 2
-        x: 384
-        y: 256
-        width: 64
-        height: 64
+        x: 277
+        y: 279
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3436,20 +3436,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3f169f21aa9e0b4a856eb9f6574069c
-      internalID: -1006446468
+      spriteID: 5ec764bbd3bc1e946808437c37cd2709
+      internalID: 1683505553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_159
+      name: fbas_05shrt_shortshirt_crop_159
       rect:
         serializedVersion: 2
-        x: 448
-        y: 256
-        width: 64
-        height: 64
+        x: 473
+        y: 275
+        width: 12
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3457,20 +3457,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e97e8e3661272b4082bd76975b19faa
-      internalID: -594644612
+      spriteID: bbf1965a9ffab6741a1a69e3f90a5090
+      internalID: 173639484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_160
+      name: fbas_05shrt_shortshirt_crop_160
       rect:
         serializedVersion: 2
-        x: 640
-        y: 256
-        width: 64
-        height: 64
+        x: 26
+        y: 222
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3478,20 +3478,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03b6efff4b54bb5498becc7178996321
-      internalID: 496404574
+      spriteID: 1488b9499e1491f468a5c078f31bf7bc
+      internalID: 321044501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_161
+      name: fbas_05shrt_shortshirt_crop_161
       rect:
         serializedVersion: 2
-        x: 704
-        y: 256
-        width: 64
-        height: 64
+        x: 89
+        y: 222
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3499,20 +3499,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e01f07abf5b5724b9f8039be49eb905
-      internalID: 423509434
+      spriteID: 9a1e4ea6fe23bc245bb8323e7abd148f
+      internalID: 1499984508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_162
+      name: fbas_05shrt_shortshirt_crop_162
       rect:
         serializedVersion: 2
-        x: 768
-        y: 256
-        width: 64
-        height: 64
+        x: 98
+        y: 225
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3520,20 +3520,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e9fb10cfb0f05c4bb4f2992568b03f2
-      internalID: 156772962
+      spriteID: 0375650f80dd35d4aa4f1b5bb1f308b1
+      internalID: 1776495889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_163
+      name: fbas_05shrt_shortshirt_crop_163
       rect:
         serializedVersion: 2
-        x: 832
-        y: 256
-        width: 64
-        height: 64
+        x: 153
+        y: 222
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3541,20 +3541,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3697a44013071c04ba9a723f682ce9fa
-      internalID: -2000744809
+      spriteID: c1b6c637b22fe8a40a86b6a5c5ac5257
+      internalID: -1020252765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_164
+      name: fbas_05shrt_shortshirt_crop_164
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
+        x: 162
+        y: 225
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3562,20 +3562,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bff4d274289aa684881ca3dc02825a41
-      internalID: -906199043
+      spriteID: a70010292af91dc44b9615c5646e8371
+      internalID: -195201070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_165
+      name: fbas_05shrt_shortshirt_crop_165
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
+        x: 216
+        y: 217
+        width: 67
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3583,20 +3583,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9442e881cc350cd49ba4813cf7bd228e
-      internalID: -1820718957
+      spriteID: ac5a1fecbd10faa4e868e8c4636b37b2
+      internalID: 689654521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_166
+      name: fbas_05shrt_shortshirt_crop_166
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
+        x: 473
+        y: 221
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3604,20 +3604,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c84fb416ca3133b4b976fae697466412
-      internalID: 1889162902
+      spriteID: 0053e57692b0c594c8bae4ae7cfd5bd9
+      internalID: -807721214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_167
+      name: fbas_05shrt_shortshirt_crop_167
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
+        x: 345
+        y: 217
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3625,20 +3625,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44fb4cc3fcb30e24986023b269d50828
-      internalID: 2032358760
+      spriteID: 13813695340220b46a5767317b4478dc
+      internalID: 290192567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_168
+      name: fbas_05shrt_shortshirt_crop_168
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
+        x: 409
+        y: 216
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3646,20 +3646,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f088e80bf362cb24fbfcd7c00977f9fa
-      internalID: -677376697
+      spriteID: 7beed8dfeb951f7488925a9caa287702
+      internalID: 676316303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_169
+      name: fbas_05shrt_shortshirt_crop_169
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
+        x: 24
+        y: 158
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3667,20 +3667,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12fb34d28fe3d6a4aa592af988178650
-      internalID: 333250999
+      spriteID: d3f3f991ad3a36547bd83713884b27b5
+      internalID: 1235680408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_170
+      name: fbas_05shrt_shortshirt_crop_170
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
-        width: 64
-        height: 64
+        x: 90
+        y: 158
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3688,20 +3688,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44e2a94291cdbaf44be14cd90689b2d3
-      internalID: -486284423
+      spriteID: c7aaa670c6f29d840975f42ac52d398d
+      internalID: -1969692372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_171
+      name: fbas_05shrt_shortshirt_crop_171
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
-        width: 64
-        height: 64
+        x: 154
+        y: 158
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3709,20 +3709,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac943ea19dcacb44295e8b1686322f68
-      internalID: -1181088895
+      spriteID: 84f61a2330f269742b068de166dde7c3
+      internalID: 2103087135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_172
+      name: fbas_05shrt_shortshirt_crop_172
       rect:
         serializedVersion: 2
-        x: 640
-        y: 192
-        width: 64
-        height: 64
+        x: 218
+        y: 154
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3730,20 +3730,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b5b1a0a098382742bfaadf0d1a1a450
-      internalID: -1038170028
+      spriteID: a83105d4225ca4147b799f917cf0b4d5
+      internalID: -265726356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_173
+      name: fbas_05shrt_shortshirt_crop_173
       rect:
         serializedVersion: 2
-        x: 704
-        y: 192
-        width: 64
-        height: 64
+        x: 283
+        y: 155
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3751,20 +3751,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0eb5632df3300a84cb13c271b77c966f
-      internalID: 318415064
+      spriteID: a910db4c9c7f494469fc9183bbc433d9
+      internalID: 790904718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_174
+      name: fbas_05shrt_shortshirt_crop_174
       rect:
         serializedVersion: 2
-        x: 768
-        y: 192
-        width: 64
-        height: 64
+        x: 345
+        y: 151
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3772,20 +3772,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94bba8edd67407847aecb31300da2b00
-      internalID: -170197037
+      spriteID: 6102a00be32c957468a3b1e013ecac7c
+      internalID: 435980255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_175
+      name: fbas_05shrt_shortshirt_crop_175
       rect:
         serializedVersion: 2
-        x: 832
-        y: 192
-        width: 64
-        height: 64
+        x: 410
+        y: 149
+        width: 13
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3793,20 +3793,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7df95cfed7e40945985c9ca99718ee2
-      internalID: -219978128
+      spriteID: c11c43dc00e31f84b9909e602346dbf8
+      internalID: 1982666249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_176
+      name: fbas_05shrt_shortshirt_crop_176
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
+        x: 473
+        y: 159
+        width: 10
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3814,20 +3814,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c5f69e8899aac045949ff6ba9a9227b
-      internalID: -1740584850
+      spriteID: 8d794391dba67f141bb2b21200f4793c
+      internalID: 539593456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_177
+      name: fbas_05shrt_shortshirt_crop_177
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
+        x: 26
+        y: 94
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3835,20 +3835,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b28fd0af3469e464c9b8822f3cdef3a2
-      internalID: -692026589
+      spriteID: 700e0870efb75514aa6f36deb783abb6
+      internalID: 1847009972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_178
+      name: fbas_05shrt_shortshirt_crop_178
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
+        x: 92
+        y: 94
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3856,20 +3856,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58b37420cd687d444972180ff4480237
-      internalID: 1196823750
+      spriteID: c0023ed429fbdc24cb58fc388a63a835
+      internalID: 1911437354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_179
+      name: fbas_05shrt_shortshirt_crop_179
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
+        x: 156
+        y: 94
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3877,20 +3877,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9737f93677c4bf4996e901673c51871
-      internalID: 788537208
+      spriteID: 3390580b7c9be0b40ae7714218a0002f
+      internalID: 1328570865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_180
+      name: fbas_05shrt_shortshirt_crop_180
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
+        x: 217
+        y: 94
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3898,20 +3898,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e28f18dde84131c4abc7d65e375b8ae6
-      internalID: -791583191
+      spriteID: 5f9a4468cec0b6e41bd6dc787b6cc6c2
+      internalID: 1268000287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_181
+      name: fbas_05shrt_shortshirt_crop_181
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
+        x: 278
+        y: 94
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3919,20 +3919,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 871e8f0e3c008354c870857c4ab917d2
-      internalID: -950810157
+      spriteID: 7f946d122c6178549b92e3ff58fccb15
+      internalID: 976307481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_182
+      name: fbas_05shrt_shortshirt_crop_182
       rect:
         serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
+        x: 346
+        y: 90
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3940,20 +3940,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7146d95c821952b418ff71dab7c5ae9e
-      internalID: -770288875
+      spriteID: 1fe2e35b6d47e1c40961004f7f41c428
+      internalID: 1165241860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_183
+      name: fbas_05shrt_shortshirt_crop_183
       rect:
         serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
+        x: 411
+        y: 89
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3961,20 +3961,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d87c0dcad329c144491c030bbc02a666
-      internalID: -790420197
+      spriteID: e1baa50547e473c48bb086212de28805
+      internalID: -1377388904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_184
+      name: fbas_05shrt_shortshirt_crop_184
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 471
+        y: 96
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3982,20 +3982,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8001c29e13564fb41980379c597e9d3e
-      internalID: 1000687377
+      spriteID: 0d2dad4da83578943b1b58f7a7858323
+      internalID: 636118679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_185
+      name: fbas_05shrt_shortshirt_crop_185
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 25
+        y: 30
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4003,20 +4003,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bee31f6833ee1994eae9a42697903cdd
-      internalID: 81624675
+      spriteID: 21cfcccc6cd6c114d9c11440bc3c595b
+      internalID: -479180698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_186
+      name: fbas_05shrt_shortshirt_crop_186
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 89
+        y: 30
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4024,20 +4024,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e695d826aa47e1d45a8d80f329b8e3c9
-      internalID: 1124225415
+      spriteID: 9c110964de19f8547801488d956914a4
+      internalID: -394131926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_187
+      name: fbas_05shrt_shortshirt_crop_187
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 153
+        y: 30
+        width: 14
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4045,20 +4045,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7ec7f195b094e94398b669b1c681ab3
-      internalID: 1854881692
+      spriteID: 48ca5af9a3caf8847b1eda893ada9cf1
+      internalID: 597805230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_188
+      name: fbas_05shrt_shortshirt_crop_188
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
+        x: 219
+        y: 29
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4066,20 +4066,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f99074a9f2e1844aab17daed07060ef
-      internalID: 1164381515
+      spriteID: ac9b8dea37328ea4db56ff869efcd5c6
+      internalID: 72925097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_189
+      name: fbas_05shrt_shortshirt_crop_189
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
+        x: 282
+        y: 34
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4087,20 +4087,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52b23b9b5ee913c4293b26ba88b4d2a3
-      internalID: 1822004326
+      spriteID: f347305c37892334e9dff2428342f59b
+      internalID: 680034558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_190
+      name: fbas_05shrt_shortshirt_crop_190
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
+        x: 345
+        y: 29
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4108,20 +4108,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28d6c2a217828884d9e80c8d1215bcd7
-      internalID: 203265643
+      spriteID: a99fd0765cc109646b34ddb8f5effc8d
+      internalID: -489655386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_191
+      name: fbas_05shrt_shortshirt_crop_191
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
+        x: 410
+        y: 30
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4129,20 +4129,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a05fd75b1820ae14ea1ecc6485cc5c69
-      internalID: 251153581
+      spriteID: 9d37f4eef56f82743a7604405186295e
+      internalID: -1160408472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red_shortshirt_00a_192
+      name: fbas_05shrt_shortshirt_crop_192
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
+        x: 474
+        y: 29
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4150,155 +4150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18c36c633902e8b4eb92ce5ae8d5599b
-      internalID: -1127509802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_shortshirt_00a_193
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adfc74e1e339602458af1cb512c3165d
-      internalID: 731749060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_shortshirt_00a_194
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5bb267b99267a724793cd7258e1125cc
-      internalID: 1912497675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_shortshirt_00a_195
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b43677ec013be0744acba690f3084e14
-      internalID: 1083071028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_shortshirt_00a_196
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03508a16b8104fa4a8a5ac401ca0b1b8
-      internalID: 1915706224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_shortshirt_00a_197
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c48ec7f82faf81f49afa79a75b0533a1
-      internalID: -637492026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_shortshirt_00a_198
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4985dc0fa3366554da184ab30cfe3cc6
-      internalID: 1658394063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_shortshirt_00a_199
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 366c9192f4513e3429c347de4a17e989
-      internalID: -270590506
+      spriteID: bbc2574b255d8d44f8ad7af96b95deb3
+      internalID: 89379000
       vertices: []
       indices: 
       edges: []
@@ -4314,206 +4167,199 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      red_shortshirt_00a_147: 56523665
-      red_shortshirt_00a_180: -791583191
-      red_shortshirt_00a_178: 1196823750
-      red_shortshirt_00a_117: -566269591
-      red_shortshirt_00a_34: 836021925
-      red_shortshirt_00a_166: 1889162902
-      red_shortshirt_00a_182: -770288875
-      red_shortshirt_00a_81: -1993585530
-      red_shortshirt_00a_103: 1647894087
-      red_shortshirt_00a_176: -1740584850
-      red_shortshirt_00a_163: -2000744809
-      red_shortshirt_00a_198: 1658394063
-      red_shortshirt_00a_32: 2140068290
-      red_shortshirt_00a_190: 203265643
-      red_shortshirt_00a_112: 715703565
-      red_shortshirt_00a_107: -1110712433
-      red_shortshirt_00a_199: -270590506
-      red_shortshirt_00a_62: 789890686
-      red_shortshirt_00a_17: 1552921639
-      red_shortshirt_00a_55: -1542526741
-      red_shortshirt_00a_169: 333250999
-      red_shortshirt_00a_25: 1273233897
-      red_shortshirt_00a_177: -692026589
-      red_shortshirt_00a_16: -624019027
-      red_shortshirt_00a_69: -554776720
-      red_shortshirt_00a_140: -1484056060
-      red_shortshirt_00a_136: 1678288151
-      red_shortshirt_00a_126: -737933993
-      red_shortshirt_00a_15: -2054422897
-      red_shortshirt_00a_30: -1021834238
-      red_shortshirt_00a_29: 1782978784
-      red_shortshirt_00a_76: 2103803182
-      red_shortshirt_00a_13: 1416352209
-      red_shortshirt_00a_138: -641835243
-      red_shortshirt_00a_73: -1390312347
-      red_shortshirt_00a_174: -170197037
-      red_shortshirt_00a_54: 1729551318
-      red_shortshirt_00a_196: 1915706224
-      red_shortshirt_00a_158: -1006446468
-      red_shortshirt_00a_94: 1005454881
-      red_shortshirt_00a_149: 123983295
-      red_shortshirt_00a_77: -1747378358
-      red_shortshirt_00a_145: -2030401773
-      red_shortshirt_00a_2: -538850388
-      red_shortshirt_00a_127: 830114672
-      red_shortshirt_00a_35: -876726733
-      red_shortshirt_00a_175: -219978128
-      red_shortshirt_00a_170: -486284423
-      red_shortshirt_00a_130: -1162441532
-      red_shortshirt_00a_28: 87421906
-      red_shortshirt_00a_185: 81624675
-      red_shortshirt_00a_87: 798896606
-      red_shortshirt_00a_123: 1693658627
-      red_shortshirt_00a_139: 2070410219
-      red_shortshirt_00a_104: 2014160069
-      red_shortshirt_00a_50: 1295876819
-      red_shortshirt_00a_128: 1159317429
-      red_shortshirt_00a_63: 259342930
-      red_shortshirt_00a_67: 382398107
-      red_shortshirt_00a_102: -218335167
-      red_shortshirt_00a_80: -730882048
-      red_shortshirt_00a_167: 2032358760
-      red_shortshirt_00a_143: 1783360123
-      red_shortshirt_00a_43: 1734591282
-      red_shortshirt_00a_105: -86789795
-      red_shortshirt_00a_61: 1162578422
-      red_shortshirt_00a_78: 1627216923
-      red_shortshirt_00a_183: -790420197
-      red_shortshirt_00a_40: 1054426883
-      red_shortshirt_00a_59: 225958446
-      red_shortshirt_00a_4: 1241888608
-      red_shortshirt_00a_153: -1089910977
-      red_shortshirt_00a_6: 2009427816
-      red_shortshirt_00a_95: 1285909186
-      red_shortshirt_00a_18: 1498057084
-      red_shortshirt_00a_49: 33641352
-      red_shortshirt_00a_100: 51643309
-      red_shortshirt_00a_108: -445906969
-      red_shortshirt_00a_116: -668978465
-      red_shortshirt_00a_109: -71018045
-      red_shortshirt_00a_162: 156772962
-      red_shortshirt_00a_195: 1083071028
-      red_shortshirt_00a_161: 423509434
-      red_shortshirt_00a_125: -1868320973
-      red_shortshirt_00a_21: -1941085031
-      red_shortshirt_00a_27: 1114074668
-      red_shortshirt_00a_122: 500579587
-      red_shortshirt_00a_86: -927255206
-      red_shortshirt_00a_26: -341122954
-      red_shortshirt_00a_114: 1191065526
-      red_shortshirt_00a_144: -2140499024
-      red_shortshirt_00a_187: 1854881692
-      red_shortshirt_00a_0: -1432450729
-      red_shortshirt_00a_132: -444180958
-      red_shortshirt_00a_22: 1108409892
-      red_shortshirt_00a_38: 641725511
-      red_shortshirt_00a_193: 731749060
-      red_shortshirt_00a_90: 2041248293
-      red_shortshirt_00a_83: 2068426487
-      red_shortshirt_00a_160: 496404574
-      red_shortshirt_00a_184: 1000687377
-      red_shortshirt_00a_172: -1038170028
-      red_shortshirt_00a_165: -1820718957
-      red_shortshirt_00a_154: -1349583415
-      red_shortshirt_00a_115: 1521797175
-      red_shortshirt_00a_118: -119300109
-      red_shortshirt_00a_98: -647586222
-      red_shortshirt_00a_192: -1127509802
-      red_shortshirt_00a_152: 874709728
-      red_shortshirt_00a_141: 472191684
-      red_shortshirt_00a_129: 85941842
-      red_shortshirt_00a_42: 231135464
-      red_shortshirt_00a_110: 162792865
-      red_shortshirt_00a_151: 979968773
-      red_shortshirt_00a_157: 1810822134
-      red_shortshirt_00a_10: 400385567
-      red_shortshirt_00a_36: -412782785
-      red_shortshirt_00a_168: -677376697
-      red_shortshirt_00a_119: -551461624
-      red_shortshirt_00a_188: 1164381515
-      red_shortshirt_00a_79: 808635035
-      red_shortshirt_00a_45: -344785641
-      red_shortshirt_00a_89: 790555964
-      red_shortshirt_00a_137: -544502736
-      red_shortshirt_00a_131: 1329360556
-      red_shortshirt_00a_60: -186599733
-      red_shortshirt_00a_1: -29074257
-      red_shortshirt_00a_71: 2104264125
-      red_shortshirt_00a_20: 1117754762
-      red_shortshirt_00a_74: 749877886
-      red_shortshirt_00a_164: -906199043
-      red_shortshirt_00a_173: 318415064
-      red_shortshirt_00a_37: 1697870050
-      red_shortshirt_00a_113: -573074508
-      red_shortshirt_00a_150: 372875176
-      red_shortshirt_00a_124: 951771388
-      red_shortshirt_00a_5: -353852223
-      red_shortshirt_00a_179: 788537208
-      red_shortshirt_00a_24: -1370481361
-      red_shortshirt_00a_191: 251153581
-      red_shortshirt_00a_44: 1204475890
-      red_shortshirt_00a_53: 1974750706
-      red_shortshirt_00a_19: -331511619
-      red_shortshirt_00a_88: 321748817
-      red_shortshirt_00a_84: -1279294955
-      red_shortshirt_00a_97: 1452576649
-      red_shortshirt_00a_23: 594885888
-      red_shortshirt_00a_93: 808171785
-      red_shortshirt_00a_121: -1329397618
-      red_shortshirt_00a_194: 1912497675
-      red_shortshirt_00a_96: -1770943735
-      red_shortshirt_00a_14: 759023369
-      red_shortshirt_00a_148: -2065668297
-      red_shortshirt_00a_146: -341717018
-      red_shortshirt_00a_189: 1822004326
-      red_shortshirt_00a_72: -202579662
-      red_shortshirt_00a_33: -1772350445
-      red_shortshirt_00a_82: 612205391
-      red_shortshirt_00a_9: -1170942133
-      red_shortshirt_00a_66: -1138975997
-      red_shortshirt_00a_101: -2132652188
-      red_shortshirt_00a_11: -770865356
-      red_shortshirt_00a_156: 1891629981
-      red_shortshirt_00a_3: 1088901030
-      red_shortshirt_00a_186: 1124225415
-      red_shortshirt_00a_120: -1029376068
-      red_shortshirt_00a_57: -1921390647
-      red_shortshirt_00a_39: -1962586814
-      red_shortshirt_00a_106: -569261949
-      red_shortshirt_00a_75: 1053340551
-      red_shortshirt_00a_181: -950810157
-      red_shortshirt_00a_31: 884720988
-      red_shortshirt_00a_171: -1181088895
-      red_shortshirt_00a_134: -748253600
-      red_shortshirt_00a_7: 1920762411
-      red_shortshirt_00a_52: 1774620228
-      red_shortshirt_00a_65: -1744352899
-      red_shortshirt_00a_92: 1693554549
-      red_shortshirt_00a_48: -1847669319
-      red_shortshirt_00a_142: 1060947506
-      red_shortshirt_00a_70: -261953892
-      red_shortshirt_00a_135: -1178813474
-      red_shortshirt_00a_91: -2012830423
-      red_shortshirt_00a_85: -1751481498
-      red_shortshirt_00a_58: -968437353
-      red_shortshirt_00a_47: 1526744206
-      red_shortshirt_00a_51: 2036530488
-      red_shortshirt_00a_111: -783335884
-      red_shortshirt_00a_159: -594644612
-      red_shortshirt_00a_12: -1967072396
-      red_shortshirt_00a_46: -842838112
-      red_shortshirt_00a_64: -1929451921
-      red_shortshirt_00a_56: 855341258
-      red_shortshirt_00a_99: -1602009544
-      red_shortshirt_00a_8: -1092977927
-      red_shortshirt_00a_41: 1770930233
-      red_shortshirt_00a_155: -446547715
-      red_shortshirt_00a_197: -637492026
-      red_shortshirt_00a_133: -1050811062
-      red_shortshirt_00a_68: -1384411557
+      fbas_05shrt_shortshirt_crop_119: 334834174
+      fbas_05shrt_shortshirt_crop_37: -2110279735
+      fbas_05shrt_shortshirt_crop_51: -2070507016
+      fbas_05shrt_shortshirt_crop_191: -1160408472
+      fbas_05shrt_shortshirt_crop_188: 72925097
+      fbas_05shrt_shortshirt_crop_103: 1645219161
+      fbas_05shrt_shortshirt_crop_138: -461522952
+      fbas_05shrt_shortshirt_crop_148: 1636601546
+      fbas_05shrt_shortshirt_crop_12: 2071530026
+      fbas_05shrt_shortshirt_crop_39: 2045793832
+      fbas_05shrt_shortshirt_crop_42: 203086449
+      fbas_05shrt_shortshirt_crop_29: -52611772
+      fbas_05shrt_shortshirt_crop_109: -917024922
+      fbas_05shrt_shortshirt_crop_161: 1499984508
+      fbas_05shrt_shortshirt_crop_31: 952224877
+      fbas_05shrt_shortshirt_crop_123: 1184239435
+      fbas_05shrt_shortshirt_crop_53: 1088158331
+      fbas_05shrt_shortshirt_crop_83: 2134698025
+      fbas_05shrt_shortshirt_crop_104: -629379015
+      fbas_05shrt_shortshirt_crop_46: -1203520682
+      fbas_05shrt_shortshirt_crop_164: -195201070
+      fbas_05shrt_shortshirt_crop_114: -737093563
+      fbas_05shrt_shortshirt_crop_133: -120043640
+      fbas_05shrt_shortshirt_crop_0: 1531670102
+      fbas_05shrt_shortshirt_crop_175: 1982666249
+      fbas_05shrt_shortshirt_crop_13: -1230448864
+      fbas_05shrt_shortshirt_crop_113: -927614673
+      fbas_05shrt_shortshirt_crop_47: -201391743
+      fbas_05shrt_shortshirt_crop_64: -1834018277
+      fbas_05shrt_shortshirt_crop_143: -1804581288
+      fbas_05shrt_shortshirt_crop_105: -1245822602
+      fbas_05shrt_shortshirt_crop_107: 1825132082
+      fbas_05shrt_shortshirt_crop_182: 1165241860
+      fbas_05shrt_shortshirt_crop_55: -1251323105
+      fbas_05shrt_shortshirt_crop_15: 1632827963
+      fbas_05shrt_shortshirt_crop_44: -2099486711
+      fbas_05shrt_shortshirt_crop_132: -2091459805
+      fbas_05shrt_shortshirt_crop_6: 199994052
+      fbas_05shrt_shortshirt_crop_56: -1138811945
+      fbas_05shrt_shortshirt_crop_189: 680034558
+      fbas_05shrt_shortshirt_crop_59: 328366324
+      fbas_05shrt_shortshirt_crop_154: 2119783454
+      fbas_05shrt_shortshirt_crop_102: -555855067
+      fbas_05shrt_shortshirt_crop_111: 363317237
+      fbas_05shrt_shortshirt_crop_159: 173639484
+      fbas_05shrt_shortshirt_crop_177: 1847009972
+      fbas_05shrt_shortshirt_crop_9: -1431253875
+      fbas_05shrt_shortshirt_crop_41: -982302330
+      fbas_05shrt_shortshirt_crop_65: -1905342607
+      fbas_05shrt_shortshirt_crop_166: -807721214
+      fbas_05shrt_shortshirt_crop_178: 1911437354
+      fbas_05shrt_shortshirt_crop_180: 1268000287
+      fbas_05shrt_shortshirt_crop_176: 539593456
+      fbas_05shrt_shortshirt_crop_95: -1281738301
+      fbas_05shrt_shortshirt_crop_174: 435980255
+      fbas_05shrt_shortshirt_crop_21: 2105319305
+      fbas_05shrt_shortshirt_crop_152: 639593849
+      fbas_05shrt_shortshirt_crop_155: 1611267309
+      fbas_05shrt_shortshirt_crop_158: 1683505553
+      fbas_05shrt_shortshirt_crop_124: 185627778
+      fbas_05shrt_shortshirt_crop_184: 636118679
+      fbas_05shrt_shortshirt_crop_22: 361538850
+      fbas_05shrt_shortshirt_crop_85: -21371010
+      fbas_05shrt_shortshirt_crop_117: -447655011
+      fbas_05shrt_shortshirt_crop_82: 947694788
+      fbas_05shrt_shortshirt_crop_121: 928778569
+      fbas_05shrt_shortshirt_crop_75: -75570917
+      fbas_05shrt_shortshirt_crop_137: -62100246
+      fbas_05shrt_shortshirt_crop_36: -1638547880
+      fbas_05shrt_shortshirt_crop_30: 1728753332
+      fbas_05shrt_shortshirt_crop_3: 483522896
+      fbas_05shrt_shortshirt_crop_156: 579313890
+      fbas_05shrt_shortshirt_crop_122: -133268076
+      fbas_05shrt_shortshirt_crop_26: 103346214
+      fbas_05shrt_shortshirt_crop_17: 1013194987
+      fbas_05shrt_shortshirt_crop_97: -1450260654
+      fbas_05shrt_shortshirt_crop_186: -394131926
+      fbas_05shrt_shortshirt_crop_58: -6583687
+      fbas_05shrt_shortshirt_crop_125: -874270493
+      fbas_05shrt_shortshirt_crop_179: 1328570865
+      fbas_05shrt_shortshirt_crop_93: 802851236
+      fbas_05shrt_shortshirt_crop_96: -458927114
+      fbas_05shrt_shortshirt_crop_128: 1331835291
+      fbas_05shrt_shortshirt_crop_28: -872168016
+      fbas_05shrt_shortshirt_crop_91: -1853648059
+      fbas_05shrt_shortshirt_crop_86: -926714363
+      fbas_05shrt_shortshirt_crop_68: 1027047246
+      fbas_05shrt_shortshirt_crop_20: 340421445
+      fbas_05shrt_shortshirt_crop_49: -1583210083
+      fbas_05shrt_shortshirt_crop_90: 414754445
+      fbas_05shrt_shortshirt_crop_1: -299158587
+      fbas_05shrt_shortshirt_crop_2: 620242085
+      fbas_05shrt_shortshirt_crop_108: 1195366089
+      fbas_05shrt_shortshirt_crop_118: -1370379310
+      fbas_05shrt_shortshirt_crop_16: 772953091
+      fbas_05shrt_shortshirt_crop_50: -274876260
+      fbas_05shrt_shortshirt_crop_100: -937488153
+      fbas_05shrt_shortshirt_crop_43: 1978683126
+      fbas_05shrt_shortshirt_crop_149: -1155766318
+      fbas_05shrt_shortshirt_crop_145: -438883124
+      fbas_05shrt_shortshirt_crop_4: 354640784
+      fbas_05shrt_shortshirt_crop_18: -2091458425
+      fbas_05shrt_shortshirt_crop_146: -383463606
+      fbas_05shrt_shortshirt_crop_38: -512337633
+      fbas_05shrt_shortshirt_crop_126: -466232914
+      fbas_05shrt_shortshirt_crop_8: 1716220884
+      fbas_05shrt_shortshirt_crop_162: 1776495889
+      fbas_05shrt_shortshirt_crop_106: -1882022576
+      fbas_05shrt_shortshirt_crop_78: -1919206188
+      fbas_05shrt_shortshirt_crop_172: -265726356
+      fbas_05shrt_shortshirt_crop_71: -2143047954
+      fbas_05shrt_shortshirt_crop_127: -1120111949
+      fbas_05shrt_shortshirt_crop_69: -800095049
+      fbas_05shrt_shortshirt_crop_120: -976809822
+      fbas_05shrt_shortshirt_crop_54: 2037490606
+      fbas_05shrt_shortshirt_crop_101: 1073258779
+      fbas_05shrt_shortshirt_crop_144: -1212946824
+      fbas_05shrt_shortshirt_crop_153: -366690356
+      fbas_05shrt_shortshirt_crop_81: -2093832124
+      fbas_05shrt_shortshirt_crop_24: -1713985436
+      fbas_05shrt_shortshirt_crop_66: -1600942871
+      fbas_05shrt_shortshirt_crop_57: -627557888
+      fbas_05shrt_shortshirt_crop_10: -1798992585
+      fbas_05shrt_shortshirt_crop_131: 975550896
+      fbas_05shrt_shortshirt_crop_140: 836171397
+      fbas_05shrt_shortshirt_crop_150: -483374997
+      fbas_05shrt_shortshirt_crop_84: 1355982952
+      fbas_05shrt_shortshirt_crop_62: 584200524
+      fbas_05shrt_shortshirt_crop_116: 967838231
+      fbas_05shrt_shortshirt_crop_185: -479180698
+      fbas_05shrt_shortshirt_crop_76: -685001637
+      fbas_05shrt_shortshirt_crop_171: 2103087135
+      fbas_05shrt_shortshirt_crop_173: 790904718
+      fbas_05shrt_shortshirt_crop_73: 1234746887
+      fbas_05shrt_shortshirt_crop_168: 676316303
+      fbas_05shrt_shortshirt_crop_60: 905980521
+      fbas_05shrt_shortshirt_crop_80: -810391574
+      fbas_05shrt_shortshirt_crop_167: 290192567
+      fbas_05shrt_shortshirt_crop_61: 773516456
+      fbas_05shrt_shortshirt_crop_99: 1895382221
+      fbas_05shrt_shortshirt_crop_130: 1483593067
+      fbas_05shrt_shortshirt_crop_183: -1377388904
+      fbas_05shrt_shortshirt_crop_134: -863290356
+      fbas_05shrt_shortshirt_crop_23: 682482016
+      fbas_05shrt_shortshirt_crop_187: 597805230
+      fbas_05shrt_shortshirt_crop_19: -1400509692
+      fbas_05shrt_shortshirt_crop_77: -1962583062
+      fbas_05shrt_shortshirt_crop_98: 239750741
+      fbas_05shrt_shortshirt_crop_27: 248668728
+      fbas_05shrt_shortshirt_crop_63: -241325740
+      fbas_05shrt_shortshirt_crop_136: 2133615322
+      fbas_05shrt_shortshirt_crop_170: -1969692372
+      fbas_05shrt_shortshirt_crop_70: 1121546874
+      fbas_05shrt_shortshirt_crop_40: -1096821636
+      fbas_05shrt_shortshirt_crop_74: 464901144
+      fbas_05shrt_shortshirt_crop_151: 1794715645
+      fbas_05shrt_shortshirt_crop_87: -1604069833
+      fbas_05shrt_shortshirt_crop_5: 32547448
+      fbas_05shrt_shortshirt_crop_190: -489655386
+      fbas_05shrt_shortshirt_crop_142: 35898947
+      fbas_05shrt_shortshirt_crop_7: 877986822
+      fbas_05shrt_shortshirt_crop_165: 689654521
+      fbas_05shrt_shortshirt_crop_157: 1747432977
+      fbas_05shrt_shortshirt_crop_181: 976307481
+      fbas_05shrt_shortshirt_crop_112: -862316918
+      fbas_05shrt_shortshirt_crop_135: -1242654298
+      fbas_05shrt_shortshirt_crop_52: -1802184252
+      fbas_05shrt_shortshirt_crop_94: 1513029167
+      fbas_05shrt_shortshirt_crop_163: -1020252765
+      fbas_05shrt_shortshirt_crop_48: -430120785
+      fbas_05shrt_shortshirt_crop_72: -852780951
+      fbas_05shrt_shortshirt_crop_169: 1235680408
+      fbas_05shrt_shortshirt_crop_67: 1871649259
+      fbas_05shrt_shortshirt_crop_14: -148642091
+      fbas_05shrt_shortshirt_crop_35: -2012175977
+      fbas_05shrt_shortshirt_crop_147: -2073415142
+      fbas_05shrt_shortshirt_crop_25: -1126335011
+      fbas_05shrt_shortshirt_crop_88: -1081150671
+      fbas_05shrt_shortshirt_crop_11: 903828828
+      fbas_05shrt_shortshirt_crop_115: -1257240207
+      fbas_05shrt_shortshirt_crop_139: 466646822
+      fbas_05shrt_shortshirt_crop_79: -1074743720
+      fbas_05shrt_shortshirt_crop_45: -419966248
+      fbas_05shrt_shortshirt_crop_141: 273921702
+      fbas_05shrt_shortshirt_crop_34: 1669149215
+      fbas_05shrt_shortshirt_crop_89: -1284532187
+      fbas_05shrt_shortshirt_crop_129: 731622266
+      fbas_05shrt_shortshirt_crop_110: 128871641
+      fbas_05shrt_shortshirt_crop_160: 321044501
+      fbas_05shrt_shortshirt_crop_192: 89379000
+      fbas_05shrt_shortshirt_crop_33: 972321136
+      fbas_05shrt_shortshirt_crop_32: 127200430
+      fbas_05shrt_shortshirt_crop_92: -1384154499
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

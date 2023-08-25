@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10185d9ecee384d4388870caf09273c0, type: 3}
+  m_Name: RedShoes
+  m_EditorClassIdentifier: 
+  type: 3
+  itemName: Red Shoes
+  price: 40
+  icon: {fileID: 237677870, guid: 23739438ef20c034ba74f142709b15fb, type: 3}

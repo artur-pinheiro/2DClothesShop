@@ -3,7 +3,7 @@ using UnityEngine;
 public enum ClothingType{
     HAT,
     SHIRT,
-    GLOVE,
+    PANTS,
     SHOE
 }
 
