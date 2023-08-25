@@ -1,5 +1,7 @@
 # 2D Clothes Shop - Artur Pinheiro
 
+[Run on Browser](https://artur.itch.io/2d-clothes-shop)
+
 - Use WASD or Left Joystick to Move
 - Interact with SPACE or Gamepad South Button
 - Open Inventory with I or Gamepad North Button
